@@ -1,7 +1,11 @@
 import json
 import re
+from pathlib import Path
 
-with open("cleaned_lyrics.json", "r", encoding="utf-8") as f:
+cwd = Path.cwd()
+parent = cwd.parent
+LYRICS_PATH = parent/"cleaned_lyrics.json"
+with open(LYRICS_PATH, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 import spacy

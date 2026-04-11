@@ -102,7 +102,7 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1959.0,
-    "Lyrics": "let you go Ooh, ooh, don't tell me no I need your love tonight Oh, gee, the way you kiss Sweedee, too good to miss"
+    "Lyrics": "so can't let you go don't tell me no I need your love tonight gee, the way you kiss Sweedee, too good to miss Wow"
   },
   {
     "Song": "I Need Your Love Tonight",
@@ -305,7 +305,7 @@
     "entity_text": "every evening",
     "entity_label": "TIME",
     "Year": 1960.0,
-    "Lyrics": "dawn And every evening when the sun goes down I'm with my love in my home town And so I sing ya..."
+    "Lyrics": "dawn And every evening when the sun goes down I'm with my love in my home town And so I sing"
   },
   {
     "Song": "Step By Step",
@@ -477,17 +477,38 @@
   },
   {
     "Song": "Calendar Girl",
+    "entity_text": "Every day Of the year",
+    "entity_label": "DATE",
+    "Year": 1961.0,
+    "Lyrics": "Every day Of the year Whoo! My heart's in a whirl I love, I love, I love my little calendar girl Every day Every day"
+  },
+  {
+    "Song": "Calendar Girl",
     "entity_text": "Christmas",
     "entity_label": "DATE",
     "Year": 1961.0,
-    "Lyrics": "present 'neath my Christmas tree Yeah, My heart's in a whirl I love, I love, I love my little calendar girl Every day Every day"
+    "Lyrics": "the present 'neath my Christmas tree My heart's in a whirl I love, I love, I love my little calendar girl Every day Every day"
+  },
+  {
+    "Song": "Calendar Girl",
+    "entity_text": "Christmas",
+    "entity_label": "DATE",
+    "Year": 1961.0,
+    "Lyrics": "'neath my Christmas tree My heart's in a whirl I love, I love, I love my little calendar girl Every day Every day Of the"
+  },
+  {
+    "Song": "Calendar Girl",
+    "entity_text": "Christmas",
+    "entity_label": "DATE",
+    "Year": 1961.0,
+    "Lyrics": "Christmas tree My heart's in a whirl I love, I love, I love my little calendar girl Every day Every day Of the year I"
   },
   {
     "Song": "Calendar Girl",
     "entity_text": "Every day",
     "entity_label": "DATE",
     "Year": 1961.0,
-    "Lyrics": "Every day Every day Of the year I love, I love, I love my calendar girl Yeah, sweet calendar girl I love, I love, I"
+    "Lyrics": "Every day Every day Of the year I love, I love, I love my calendar girl sweet calendar girl I love, I love, I love"
   },
   {
     "Song": "I Don't Know Why But I Do",
@@ -536,7 +557,7 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1961.0,
-    "Lyrics": "Keep that breathless charm Won't you please arrange it ? 'Cause I love you ... Just the way you look tonight Mm, Mm, Mm, Just"
+    "Lyrics": "change Keep that breathless charm Won't you please arrange it 'Cause I love you Just the way you look tonight Just the way you look"
   },
   {
     "Song": "(Marie's The Name) His Latest Flame",
@@ -704,21 +725,21 @@
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 1961.0,
-    "Lyrics": "been born Hold me, hold me, hold me right Tonight, tonight my love, tonight la....."
+    "Lyrics": "been born Hold me, hold me, hold me right Tonight, tonight my love, tonight"
   },
   {
     "Song": "Tonight My Love, Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1961.0,
-    "Lyrics": "been born Hold me, hold me, hold me right Tonight, tonight my love, tonight la....."
+    "Lyrics": "been born Hold me, hold me, hold me right Tonight, tonight my love, tonight"
   },
   {
     "Song": "Tonight My Love, Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1961.0,
-    "Lyrics": "been born Hold me, hold me, hold me right Tonight, tonight my love, tonight la....."
+    "Lyrics": "been born Hold me, hold me, hold me right Tonight, tonight my love, tonight"
   },
   {
     "Song": "Missing You",
@@ -746,14 +767,14 @@
     "entity_text": "last summer",
     "entity_label": "DATE",
     "Year": 1961.0,
-    "Lyrics": "up and down we go again Oh, baby, make me know you love me so And then Twist again Like we did last summer Come"
+    "Lyrics": "and up and down we go again baby, make me know you love me so And then Twist again Like we did last summer Come"
   },
   {
     "Song": "Let's Twist Again",
     "entity_text": "last summer",
     "entity_label": "DATE",
     "Year": 1961.0,
-    "Lyrics": "up and down we go again Oh, baby, make me know you love me so And then Comeon, twist again Like we did last summer"
+    "Lyrics": "and up and down we go again baby, make me know you love me so And then Comeon, twist again Like we did last summer"
   },
   {
     "Song": "The Wanderer",
@@ -767,7 +788,7 @@
     "entity_text": "the day",
     "entity_label": "DATE",
     "Year": 1962.0,
-    "Lyrics": "only wants you Until the day, That she'll again have her true love Who's far, far, away, So, love you better wake up Yeah, before"
+    "Lyrics": "only wants you Until the day, That she'll again have her true love Who's far, far, away, So, love you better wake up before we"
   },
   {
     "Song": "Ramblin' Rose",
@@ -998,7 +1019,7 @@
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1964.0,
-    "Lyrics": "yeah, She loves you, yeah, yeah, yeah, You think you've lost your love Well, I saw her yesterday It's you she's thinking of And she"
+    "Lyrics": "you, She loves you, She loves you, You think you've lost your love Well, I saw her yesterday It's you she's thinking of And she"
   },
   {
     "Song": "We'll Sing In The Sunshine",
@@ -1166,49 +1187,42 @@
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1965.0,
-    "Lyrics": "baby Let's start today Come on, baby Let's play The game of love, love La, la, la, la, love It started long ago in the"
+    "Lyrics": "baby Let's start today Come on, baby Let's play The game of love, love love It started long ago in the Garden of Eden When"
   },
   {
     "Song": "Game Of Love",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1965.0,
-    "Lyrics": "Let's start today Come on, baby Let's play The game of love, love La, la, la, la, love It started long ago in the Garden"
+    "Lyrics": "Let's start today Come on, baby Let's play The game of love, love love It started long ago in the Garden of Eden When Adam"
   },
   {
     "Song": "Game Of Love",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1965.0,
-    "Lyrics": "baby Let's start today Come on, baby Let's play The game of love, love La, la, la, la, love Come on, baby 'Cause the time"
+    "Lyrics": "start today Come on, baby Let's play The game of love, love love It started long ago in the Garden of Eden When Adam said"
   },
   {
     "Song": "Game Of Love",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1965.0,
-    "Lyrics": "Let's start today Come on, baby Let's play The game of love, love La, la, la, la, love Come on, baby 'Cause the time is"
+    "Lyrics": "baby Let's start today Come on, baby Let's play The game of love, love love Come on, baby 'Cause the time is right Love your"
   },
   {
     "Song": "Game Of Love",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1965.0,
-    "Lyrics": "to love a woman And the purpose of a woman is to love a man So come on, baby Let's start today Come on, baby"
+    "Lyrics": "Let's start today Come on, baby Let's play The game of love, love love Come on, baby 'Cause the time is right Love your daddy"
   },
   {
     "Song": "Game Of Love",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1965.0,
-    "Lyrics": "baby Let's start today Come on, baby Let's play The game of love, love La, la, la, la, love The purpose of a man is"
-  },
-  {
-    "Song": "Game Of Love",
-    "entity_text": "today",
-    "entity_label": "DATE",
-    "Year": 1965.0,
-    "Lyrics": "Let's start today Come on, baby Let's play The game of love, love La, la, la, la, love The purpose of a man is to"
+    "Lyrics": "start today Come on, baby Let's play The game of love, love love Come on, baby 'Cause the time is right Love your daddy with"
   },
   {
     "Song": "Game Of Love",
@@ -1222,14 +1236,49 @@
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1965.0,
-    "Lyrics": "baby Let's start today Come on, baby Let's play The game of love, love La, la, la, la, love Come on, baby 'Cause the time"
+    "Lyrics": "baby Let's start today Come on, baby Let's play The game of love, love love The purpose of a man is to love a woman"
   },
   {
     "Song": "Game Of Love",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1965.0,
-    "Lyrics": "Let's start today Come on, baby Let's play The game of love, love La, la, la, la, love Come on, baby 'Cause the time is"
+    "Lyrics": "Let's start today Come on, baby Let's play The game of love, love love The purpose of a man is to love a woman And"
+  },
+  {
+    "Song": "Game Of Love",
+    "entity_text": "today",
+    "entity_label": "DATE",
+    "Year": 1965.0,
+    "Lyrics": "start today Come on, baby Let's play The game of love, love love The purpose of a man is to love a woman And the"
+  },
+  {
+    "Song": "Game Of Love",
+    "entity_text": "today",
+    "entity_label": "DATE",
+    "Year": 1965.0,
+    "Lyrics": "to love a woman And the purpose of a woman is to love a man So come on, baby Let's start today Come on, baby"
+  },
+  {
+    "Song": "Game Of Love",
+    "entity_text": "today",
+    "entity_label": "DATE",
+    "Year": 1965.0,
+    "Lyrics": "baby Let's start today Come on, baby Let's play The game of love, love love Come on, baby 'Cause the time is right Love your"
+  },
+  {
+    "Song": "Game Of Love",
+    "entity_text": "today",
+    "entity_label": "DATE",
+    "Year": 1965.0,
+    "Lyrics": "Let's start today Come on, baby Let's play The game of love, love love Come on, baby 'Cause the time is right Love your daddy"
+  },
+  {
+    "Song": "Game Of Love",
+    "entity_text": "today",
+    "entity_label": "DATE",
+    "Year": 1965.0,
+    "Lyrics": "start today Come on, baby Let's play The game of love, love love Come on, baby 'Cause the time is right Love your daddy with"
   },
   {
     "Song": "Hush, Hush, Sweet Charlotte",
@@ -1649,7 +1698,7 @@
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1966.0,
-    "Lyrics": "fire You're my sweet complete desire Sunny one so true, yes, I love you Sunny, yesterday, oh, my life was filled with rain Sunny, you"
+    "Lyrics": "fire You're my sweet complete desire Sunny one so true, yes, I love you Sunny, yesterday, my life was filled with rain Sunny, you smiled"
   },
   {
     "Song": "See You In September",
@@ -1789,28 +1838,35 @@
     "entity_text": "one day",
     "entity_label": "DATE",
     "Year": 1966.0,
-    "Lyrics": "walk the streets alone On one day, happiness The next day, loneliness Love is a hurtin' thing Oh, love is a hurtin' thing When love"
+    "Lyrics": "walk the streets alone On one day, happiness The next day, loneliness Love is a hurtin' thing love is a hurtin' thing When love brings"
   },
   {
     "Song": "Love Is A Hurtin' Thing",
     "entity_text": "The next day",
     "entity_label": "DATE",
     "Year": 1966.0,
-    "Lyrics": "walk the streets alone On one day, happiness The next day, loneliness Love is a hurtin' thing Oh, love is a hurtin' thing When love"
+    "Lyrics": "walk the streets alone On one day, happiness The next day, loneliness Love is a hurtin' thing love is a hurtin' thing When love brings"
+  },
+  {
+    "Song": "Love Is A Hurtin' Thing",
+    "entity_text": "one day",
+    "entity_label": "DATE",
+    "Year": 1966.0,
+    "Lyrics": "one day, happiness The next day, loneliness Love is a hurtin' thing love is a hurtin' thing When love brings so much joy, why must"
   },
   {
     "Song": "Love Is A Hurtin' Thing",
     "entity_text": "The next day",
     "entity_label": "DATE",
     "Year": 1966.0,
-    "Lyrics": "day, happiness The next day, loneliness Love is a hurtin' thing Oh, love is a hurtin' thing When love brings so much joy, why must"
+    "Lyrics": "one day, happiness The next day, loneliness Love is a hurtin' thing love is a hurtin' thing When love brings so much joy, why must"
   },
   {
     "Song": "Oh How Happy",
     "entity_text": "our years",
     "entity_label": "DATE",
     "Year": 1966.0,
-    "Lyrics": "me In our years together We have had stormy weather But our love has been so strong That somehow we've carried on Oh, how happy"
+    "Lyrics": "me In our years together We have had stormy weather But our love has been so strong That somehow we've carried on how happy You"
   },
   {
     "Song": "I Was Made To Love Her",
@@ -1866,7 +1922,7 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1967.0,
-    "Lyrics": "tonight All over the world People just like us are fallin' in love Yeah, they're fallin' in love Hush, they're fallin' in love Hush"
+    "Lyrics": "tonight All over the world People just like us are fallin' in love they're fallin' in love Hush, they're fallin' in love Hush"
   },
   {
     "Song": "This Is My Song",
@@ -1901,7 +1957,7 @@
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1967.0,
-    "Lyrics": "Gimme some a loving I need all your loving Give me some love now I need all your loving Sha la, live for today Sha"
+    "Lyrics": "Gimme some a loving I need all your loving Give me some love now I need all your loving Sha live for today Sha live"
   },
   {
     "Song": "I Never Loved A Man (The Way I Love You)",
@@ -1911,32 +1967,11 @@
     "Lyrics": "Never, Never, no, no Loved a man, the way that I, I love you I can't sleep at night And I can't eat a bite"
   },
   {
-    "Song": "98.6",
-    "entity_text": "98.6",
-    "entity_label": "DATE",
-    "Year": 1967.0,
-    "Lyrics": "hey, 98.6, her lovin' is the medicine that saved me Oh, I love my baby Hey, everybody on the street, I see you smiling Must"
-  },
-  {
-    "Song": "98.6",
-    "entity_text": "98.6",
-    "entity_label": "DATE",
-    "Year": 1967.0,
-    "Lyrics": "hey, 98.6, her lovin' is the medicine that saved me Oh, I love my baby You know she's got me on another kind of highway"
-  },
-  {
-    "Song": "98.6",
-    "entity_text": "98.6",
-    "entity_label": "DATE",
-    "Year": 1967.0,
-    "Lyrics": "hey, 98.6, her lovin' is the medicine that saved me Oh, I love my baby"
-  },
-  {
     "Song": "I Take It Back",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1967.0,
-    "Lyrics": "off so long But I've decided that today is the day My love for you is dying Oh, no, please don't start crying"
+    "Lyrics": "off so long But I've decided that today is the day My love for you is dying no, please don't start crying"
   },
   {
     "Song": "I Dig Rock And Roll Music",
@@ -1999,7 +2034,7 @@
     "entity_text": "hours",
     "entity_label": "TIME",
     "Year": 1968.0,
-    "Lyrics": "hours of the night Just don't go my way A woman in love Needs sweet inspiration Yeah, and honey that's all I ask That's all"
+    "Lyrics": "hours of the night Just don't go my way A woman in love Needs sweet inspiration and honey that's all I ask That's all I"
   },
   {
     "Song": "Sealed With A Kiss",
@@ -2083,7 +2118,7 @@
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1969.0,
-    "Lyrics": "my dreams come true I'll be spending time with you Oh, I love you more today than yesterday But not as much as tomorrow I"
+    "Lyrics": "all my dreams come true I'll be spending time with you I love you more today than yesterday But not as much as tomorrow I"
   },
   {
     "Song": "More Today Than Yesterday",
@@ -2104,7 +2139,7 @@
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1969.0,
-    "Lyrics": "be true, I know you feel the same way too Oh, I love you more today than yesterday But not as much as tomorrow I"
+    "Lyrics": "will be true, I know you feel the same way too I love you more today than yesterday But not as much as tomorrow I"
   },
   {
     "Song": "More Today Than Yesterday",
@@ -2139,14 +2174,14 @@
     "entity_text": "a new day",
     "entity_label": "DATE",
     "Year": 1969.0,
-    "Lyrics": "every time I love Every way's a new way, every time I love Every day's a new day, oh, how I love"
+    "Lyrics": "every time I love Every way's a new way, every time I love Every day's a new day, how I love"
   },
   {
     "Song": "More Today Than Yesterday",
     "entity_text": "a new day",
     "entity_label": "DATE",
     "Year": 1969.0,
-    "Lyrics": "every time I love Every day's a new day, oh, how I love"
+    "Lyrics": "way, every time I love Every day's a new day, how I love"
   },
   {
     "Song": "Traces",
@@ -2335,14 +2370,21 @@
     "entity_text": "tomorrow",
     "entity_label": "DATE",
     "Year": 1969.0,
-    "Lyrics": "My life is so wasted So wasted without you I guess I love too much, too much Oh, baby, how can I face tomorrow When"
+    "Lyrics": "My life is so wasted So wasted without you I guess I love too much, too much baby, how can I face tomorrow When yesterday"
+  },
+  {
+    "Song": "My Whole World Ended (The Moment You Left Me)",
+    "entity_text": "yesterday",
+    "entity_label": "DATE",
+    "Year": 1969.0,
+    "Lyrics": "My life is so wasted So wasted without you I guess I love too much, too much baby, how can I face tomorrow When yesterday"
   },
   {
     "Song": "War",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1970.0,
-    "Lyrics": "nothing but a heartbreaker , Friend only to the undertaker, woooo! Peace, love and understanding Tell me, is there no place for them today? They"
+    "Lyrics": "It ain't nothing but a heartbreaker Friend only to the undertaker, Peace, love and understanding Tell me, is there no place for them today? They"
   },
   {
     "Song": "ABC",
@@ -2384,7 +2426,7 @@
     "entity_text": "Some day",
     "entity_label": "DATE",
     "Year": 1970.0,
-    "Lyrics": "is for Oh, no! P is for Please, please, don't go! The love you save may be your own Some day you may be all"
+    "Lyrics": "O is for no! P is for Please, please, don't go! The love you save may be your own Some day you may be all"
   },
   {
     "Song": "The Love You Save",
@@ -2426,7 +2468,7 @@
     "entity_text": "the day",
     "entity_label": "DATE",
     "Year": 1970.0,
-    "Lyrics": "yours alone Until the day I die And we would Have a love so divine If I could turn back The hands of time oh,"
+    "Lyrics": "yours alone Until the day I die And we would Have a love so divine If I could turn back The hands of time baby"
   },
   {
     "Song": "Indiana Wants Me",
@@ -2510,21 +2552,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1971.0,
-    "Lyrics": "eyes Looking through my, my, my soul Temptation eyes You've got to love me, got to love me tonight Got to love me, baby, yeah,"
+    "Lyrics": "eyes Looking through my, my, my soul Temptation eyes You've got to love me, got to love me tonight Got to love me, baby, Her"
   },
   {
     "Song": "Temptation Eyes",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1971.0,
-    "Lyrics": "my, my soul Temptation eyes You've got to love me, got to love me tonight Got to love me, baby, yeah, Her wild eyed innocence"
+    "Lyrics": "my, my soul Temptation eyes You've got to love me, got to love me tonight Got to love me, baby, Her wild eyed innocence is"
   },
   {
     "Song": "Temptation Eyes",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1971.0,
-    "Lyrics": "You've got to love me, got to love me tonight Got to love me, baby, yeah, Her wild eyed innocence is just a game But"
+    "Lyrics": "You've got to love me, got to love me tonight Got to love me, baby, Her wild eyed innocence is just a game But just"
   },
   {
     "Song": "Temptation Eyes",
@@ -2895,14 +2937,14 @@
     "entity_text": "Nights",
     "entity_label": "TIME",
     "Year": 1972.0,
-    "Lyrics": "end And I love you Yes, I love you Ah, how I love you Ah, how I love you Nights in white satin, never reaching"
+    "Lyrics": "the end And I love you Yes, I love you how I love you how I love you Nights in white satin, never reaching the"
   },
   {
     "Song": "Nights In White Satin",
     "entity_text": "Nights",
     "entity_label": "TIME",
     "Year": 1972.0,
-    "Lyrics": "Yes, I love you Ah, how I love you Ah, how I love you Nights in white satin, never reaching the end Letters I've written,"
+    "Lyrics": "love you Yes, I love you how I love you how I love you Nights in white satin, never reaching the end Letters I've written,"
   },
   {
     "Song": "The Way Of Love",
@@ -3049,28 +3091,28 @@
     "entity_text": "midnight",
     "entity_label": "TIME",
     "Year": 1973.0,
-    "Lyrics": "For love, gonna board, gotta board the midnight train to go For love, gonna board, huh, the midnight train to go My world, his world,"
+    "Lyrics": "For love, gonna board, gotta board the midnight train to go For love, gonna board, the midnight train to go My world, his world, our"
   },
   {
     "Song": "Midnight Train To Georgia",
     "entity_text": "midnight",
     "entity_label": "TIME",
     "Year": 1973.0,
-    "Lyrics": "For love, gonna board, gotta board the midnight train to go For love, gonna board, huh, the midnight train to go My world, his world,"
+    "Lyrics": "For love, gonna board, gotta board the midnight train to go For love, gonna board, the midnight train to go My world, his world, our"
   },
   {
     "Song": "Feelin' Stronger Every Day",
     "entity_text": "the night",
     "entity_label": "TIME",
     "Year": 1973.0,
-    "Lyrics": "to you The best thing that happened to me Yeah, yeah, We love you We love you Let's spend the night together We love you"
+    "Lyrics": "to happen to you The best thing that happened to me We love you We love you Let's spend the night together We love you"
   },
   {
     "Song": "Feelin' Stronger Every Day",
     "entity_text": "the night",
     "entity_label": "TIME",
     "Year": 1973.0,
-    "Lyrics": "best thing that happened to me Yeah, yeah, We love you We love you Let's spend the night together We love you Jumpin' Jack Flash,"
+    "Lyrics": "you The best thing that happened to me We love you We love you Let's spend the night together We love you Jumpin' Jack Flash,"
   },
   {
     "Song": "Feelin' Stronger Every Day",
@@ -3091,7 +3133,7 @@
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1973.0,
-    "Lyrics": "But you got to make A little sacrifice You make it for love Whoa, I never thought about today would come When she would leave"
+    "Lyrics": "But you got to make A little sacrifice You make it for love I never thought about today would come When she would leave without"
   },
   {
     "Song": "One Of A Kind (Love Affair)",
@@ -3105,7 +3147,7 @@
     "entity_text": "this very day",
     "entity_label": "DATE",
     "Year": 1973.0,
-    "Lyrics": "this very day I could never say A discouraging word Beause I love you Whoa, yes, siree, now One of a kind love affair is"
+    "Lyrics": "this very day I could never say A discouraging word Beause I love you yes, siree, now One of a kind love affair is When"
   },
   {
     "Song": "Daisy A Day",
@@ -3140,21 +3182,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1974.0,
-    "Lyrics": "on a natural high And I know I can satisfy, I wanna love ya, baby, tonight hoo, tonight Boo hoo, boogie down Hey, Boogie Boogie"
+    "Lyrics": "on a natural high And I know I can satisfy, I wanna love baby, tonight tonight Boo boogie down Boogie Boogie down, baby Ooo, boogie"
   },
   {
     "Song": "Boogie Down",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1974.0,
-    "Lyrics": "on a natural high And I know I can satisfy, I wanna love ya, baby, tonight hoo, tonight Boo hoo, boogie down Hey, Boogie Boogie"
+    "Lyrics": "on a natural high And I know I can satisfy, I wanna love baby, tonight tonight Boo boogie down Boogie Boogie down, baby Ooo, boogie"
   },
   {
     "Song": "Boogie Down",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1974.0,
-    "Lyrics": "flood your water gate Sweet lover, don't make me wait, I wanna love ya, kiss, and hug ya, baby, tonight Make feel alright Boo ooo"
+    "Lyrics": "flood your water gate Sweet lover, don't make me wait, I wanna love kiss, and hug baby, tonight Make feel alright Boo ooo ooo ooo"
   },
   {
     "Song": "You're Sixteen",
@@ -3273,63 +3315,63 @@
     "entity_text": "the rainy days",
     "entity_label": "DATE",
     "Year": 1975.0,
-    "Lyrics": "laughter in the rain Walking hand in hand with the one I love Oh, how I love the rainy days And the happy way I"
+    "Lyrics": "laughter in the rain Walking hand in hand with the one I love how I love the rainy days And the happy way I feel"
   },
   {
     "Song": "Laughter In The Rain",
     "entity_text": "the rainy days",
     "entity_label": "DATE",
     "Year": 1975.0,
-    "Lyrics": "Walking hand in hand with the one I love Oh, how I love the rainy days And the happy way I feel inside After a"
+    "Lyrics": "rain Walking hand in hand with the one I love how I love the rainy days And the happy way I feel inside After a"
   },
   {
     "Song": "Laughter In The Rain",
     "entity_text": "the rainy days",
     "entity_label": "DATE",
     "Year": 1975.0,
-    "Lyrics": "laughter in the rain Walking hand in hand with the one I love Oh, how I love the rainy days And the happy way I"
+    "Lyrics": "laughter in the rain Walking hand in hand with the one I love how I love the rainy days And the happy way I feel"
   },
   {
     "Song": "Laughter In The Rain",
     "entity_text": "the rainy days",
     "entity_label": "DATE",
     "Year": 1975.0,
-    "Lyrics": "Walking hand in hand with the one I love Oh, how I love the rainy days And the happy way I feel inside I feel"
+    "Lyrics": "rain Walking hand in hand with the one I love how I love the rainy days And the happy way I feel inside I feel"
   },
   {
     "Song": "Laughter In The Rain",
     "entity_text": "the rainy days",
     "entity_label": "DATE",
     "Year": 1975.0,
-    "Lyrics": "laughter in the rain Walking hand in hand with the one I love Oh, how I love the rainy days And the happy way I"
+    "Lyrics": "laughter in the rain Walking hand in hand with the one I love how I love the rainy days And the happy way I feel"
   },
   {
     "Song": "Laughter In The Rain",
     "entity_text": "the rainy days",
     "entity_label": "DATE",
     "Year": 1975.0,
-    "Lyrics": "Walking hand in hand with the one I love Oh, how I love the rainy days And the happy way I feel inside Oh, I"
+    "Lyrics": "rain Walking hand in hand with the one I love how I love the rainy days And the happy way I feel inside I hear"
   },
   {
     "Song": "Laughter In The Rain",
     "entity_text": "the rainy days",
     "entity_label": "DATE",
     "Year": 1975.0,
-    "Lyrics": "laughter in the rain Walking hand in hand with the one I love Oh, how I love the rainy days And the happy way I"
+    "Lyrics": "laughter in the rain Walking hand in hand with the one I love how I love the rainy days And the happy way I feel"
   },
   {
     "Song": "Laughter In The Rain",
     "entity_text": "the rainy days",
     "entity_label": "DATE",
     "Year": 1975.0,
-    "Lyrics": "Walking hand in hand with the one I love Oh, how I love the rainy days And the happy way I feel inside"
+    "Lyrics": "rain Walking hand in hand with the one I love how I love the rainy days And the happy way I feel inside"
   },
   {
     "Song": "(Hey Wont You Play) Another Somebody Done Somebody Wrong Song",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "out tonight And the feeling just got right For a brand new love song Somebody done somebody wrong song Hey, won't you play another Somebody"
+    "Lyrics": "out tonight And the feeling just got right For a brand new love song Somebody done somebody wrong song won't you play another Somebody done"
   },
   {
     "Song": "Love Won't Let Me Wait",
@@ -3374,6 +3416,13 @@
     "Lyrics": "You and I first loved this way But now, I know how love can grow With each and every day As we lay at midnight's"
   },
   {
+    "Song": "That's The Way Of The World",
+    "entity_text": "this special day",
+    "entity_label": "DATE",
+    "Year": 1975.0,
+    "Lyrics": "world you belong Hearts afire Love desire High and higher Hearts afire Love desire High, higher Haw, haw We've come together on this special day"
+  },
+  {
     "Song": "Only Women Bleed",
     "entity_text": "night",
     "entity_label": "TIME",
@@ -3385,21 +3434,14 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "we like to do Oh, do a little dance Make a little love Get down tonight, get down tonight Do a little dance Make a"
+    "Lyrics": "That we like to do do a little dance Make a little love Get down tonight, get down tonight Do a little dance Make a"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "we like to do Oh, do a little dance Make a little love Get down tonight, get down tonight Do a little dance Make a"
-  },
-  {
-    "Song": "Get Down Tonight",
-    "entity_text": "tonight",
-    "entity_label": "TIME",
-    "Year": 1975.0,
-    "Lyrics": "down tonight, get down tonight Do a little dance Make a little love Get down tonight, get down tonight Baby, baby I'll meet you Same"
+    "Lyrics": "That we like to do do a little dance Make a little love Get down tonight, get down tonight Do a little dance Make a"
   },
   {
     "Song": "Get Down Tonight",
@@ -3427,63 +3469,77 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "ease up our mind Oh, do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
+    "Lyrics": "down tonight, get down tonight Do a little dance Make a little love Get down tonight, get down tonight Baby, baby I'll meet you Same"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "ease up our mind Oh, do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
+    "Lyrics": "And ease up our mind do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "tonight, whoo Get down tonight, Do a little dance Make a little love Get down tonight Get down tonight, baby Oh, do a little dance"
+    "Lyrics": "And ease up our mind do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "tonight, whoo Get down tonight, Do a little dance Make a little love Get down tonight Get down tonight, baby Oh, do a little dance"
+    "Lyrics": "tonight, whoo Get down tonight, Do a little dance Make a little love Get down tonight Get down tonight, baby do a little dance Make"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "tonight, whoo Get down tonight, Do a little dance Make a little love Get down tonight Get down tonight, baby Oh, do a little dance"
+    "Lyrics": "tonight, whoo Get down tonight, Do a little dance Make a little love Get down tonight Get down tonight, baby do a little dance Make"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "tonight, whoo Get down tonight, Do a little dance Make a little love Get down tonight Get down tonight, baby Oh, do a little dance"
+    "Lyrics": "tonight, whoo Get down tonight, Do a little dance Make a little love Get down tonight Get down tonight, baby do a little dance Make"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "Get down tonight, baby Oh, do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
+    "Lyrics": "tonight, whoo Get down tonight, Do a little dance Make a little love Get down tonight Get down tonight, baby do a little dance Make"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "Get down tonight, baby Oh, do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
+    "Lyrics": "tonight Get down tonight, baby do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
   },
   {
     "Song": "Get Down Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "Get down tonight, baby Oh, do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
+    "Lyrics": "tonight Get down tonight, baby do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
+  },
+  {
+    "Song": "Get Down Tonight",
+    "entity_text": "tonight",
+    "entity_label": "TIME",
+    "Year": 1975.0,
+    "Lyrics": "tonight Get down tonight, baby do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
+  },
+  {
+    "Song": "Get Down Tonight",
+    "entity_text": "tonight",
+    "entity_label": "TIME",
+    "Year": 1975.0,
+    "Lyrics": "tonight Get down tonight, baby do a little dance Make a little love Get down tonight, whoo Get down tonight, Do a little dance Make"
   },
   {
     "Song": "Get Down Tonight",
@@ -3609,7 +3665,7 @@
     "entity_text": "a minute",
     "entity_label": "TIME",
     "Year": 1975.0,
-    "Lyrics": "more Oh, it only takes a minute girl, baby To fall in love, to fall in love It only takes a minute girl To fall"
+    "Lyrics": "no more it only takes a minute girl, baby To fall in love, to fall in love It only takes a minute girl To fall"
   },
   {
     "Song": "It Only Takes A Minute",
@@ -3770,14 +3826,14 @@
     "entity_text": "the midnight hour",
     "entity_label": "TIME",
     "Year": 1976.0,
-    "Lyrics": "You're gonna miss my lovin' You're gonna miss, you're gonna miss my love Whoa, oh, oh, oh, Late in the midnight hour, baby When it's"
+    "Lyrics": "You're gonna miss my lovin' You're gonna miss, you're gonna miss my love Late in the midnight hour, baby When it's cold outside You're gonna"
   },
   {
     "Song": "You'll Never Find Another Love Like Mine",
     "entity_text": "the midnight hour",
     "entity_label": "TIME",
     "Year": 1976.0,
-    "Lyrics": "you're gonna miss my lovin' You're gonna miss, you're gonna miss my love Whoa, oh, oh, oh, Late in the midnight hour, baby When it"
+    "Lyrics": "you're gonna miss my lovin' You're gonna miss, you're gonna miss my love Late in the midnight hour, baby When it gets real cold outside"
   },
   {
     "Song": "Let Your Love Flow",
@@ -3959,7 +4015,7 @@
     "entity_text": "every night",
     "entity_label": "TIME",
     "Year": 1977.0,
-    "Lyrics": "skin Even if it's in my mind Oh, sweet dream baby, I love you Oh, my sweet dream baby, you're in my dreams every night"
+    "Lyrics": "your skin Even if it's in my mind sweet dream baby, I love you my sweet dream baby, you're in my dreams every night sweet"
   },
   {
     "Song": "Undercover Angel",
@@ -4141,7 +4197,7 @@
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1977.0,
-    "Lyrics": "today Until you were there, everywhere And all I could taste was love the way we made it Oh, we made it Looks like we"
+    "Lyrics": "today Until you were there, everywhere And all I could taste was love the way we made it we made it Looks like we made"
   },
   {
     "Song": "Looks Like We Made It",
@@ -4214,6 +4270,13 @@
     "Lyrics": "you'll pay You're as cold as ice You're willing to sacrifice our love You want paradise But some day, you'll pay the price I know"
   },
   {
+    "Song": "Somebody To Love",
+    "entity_text": "each morning",
+    "entity_label": "TIME",
+    "Year": 1977.0,
+    "Lyrics": "Can anybody find me somebody to love? each morning I get up I die a little Can barely stand"
+  },
+  {
     "Song": "Don't Worry Baby",
     "entity_text": "today",
     "entity_label": "DATE",
@@ -4239,14 +4302,14 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1978.0,
-    "Lyrics": "dance Let's dance this last dance tonight Last dance Last dance for love Yes, it's my last chance For romance tonight ho, I need you"
+    "Lyrics": "dance Let's dance this last dance tonight Last dance Last dance for love Yes, it's my last chance For romance tonight I need you by"
   },
   {
     "Song": "Last Dance",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1978.0,
-    "Lyrics": "dance Let's dance this last dance tonight Last dance Last dance for love Yes, it's my last chance For romance tonight ho, I need you"
+    "Lyrics": "dance Let's dance this last dance tonight Last dance Last dance for love Yes, it's my last chance For romance tonight I need you by"
   },
   {
     "Song": "Hot Blooded",
@@ -4267,14 +4330,14 @@
     "entity_text": "the day",
     "entity_label": "DATE",
     "Year": 1978.0,
-    "Lyrics": "ooh, Love is in the air In the risin' of the sun Love is in the air When the day is nearly done And I"
+    "Lyrics": "air Love is in the air In the risin' of the sun Love is in the air When the day is nearly done And I"
   },
   {
     "Song": "Thunder Island",
     "entity_text": "summer's day",
     "entity_label": "DATE",
     "Year": 1978.0,
-    "Lyrics": "from across the bay? A summer's day laughin' and a hidin' Chasin' love out on Thunder Island Hey, hey, hey, She was the color of"
+    "Lyrics": "from across the bay? A summer's day laughin' and a hidin' Chasin' love out on Thunder Island She was the color of the Indian summer"
   },
   {
     "Song": "Count On Me",
@@ -4323,7 +4386,7 @@
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1978.0,
-    "Lyrics": "An incurable believer In the magic of the midnight sky And the love that I found today Oh, I can't let it slip away darlin',"
+    "Lyrics": "An incurable believer In the magic of the midnight sky And the love that I found today I can't let it slip away darlin', can't"
   },
   {
     "Song": "Hey Deanie",
@@ -4421,14 +4484,14 @@
     "entity_text": "the evening",
     "entity_label": "TIME",
     "Year": 1979.0,
-    "Lyrics": "breakup we had Has made me lonesome and sad I realize I love you 'cause I Want you back Hey, I spent the evening with"
+    "Lyrics": "breakup we had Has made me lonesome and sad I realize I love you 'cause I Want you back I spent the evening with the"
   },
   {
     "Song": "Reunited",
     "entity_text": "the day",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "so excited 'cause we're Reunited Hey, Oh, lover, lover This is solid love And you're exactly what I'm dreaming of All through the day, and"
+    "Lyrics": "both are so excited 'cause we're Reunited lover, lover This is solid love And you're exactly what I'm dreaming of All through the day, and"
   },
   {
     "Song": "Hot Stuff",
@@ -4589,7 +4652,7 @@
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "the way And yesterday was all we had And, oh, after the love has gone How could you lead me on And not let me"
+    "Lyrics": "along the way And yesterday was all we had And, after the love has gone How could you lead me on And not let me"
   },
   {
     "Song": "After The Love Has Gone",
@@ -4603,7 +4666,7 @@
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "way Oh, and yesterday was all we had And, oh, after the love has gone How could you lead me on And not let me"
+    "Lyrics": "along the way and yesterday was all we had And, after the love has gone How could you lead me on And not let me"
   },
   {
     "Song": "Lady",
@@ -4708,7 +4771,7 @@
     "entity_text": "that day",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "'Cause I'll be here Someday I'll hold you near Whisper I still love you Until that day is here Ooh, I'm crying Ooh, baby, baby"
+    "Lyrics": "'Cause I'll be here Someday I'll hold you near Whisper I still love you Until that day is here I'm crying baby, baby baby, baby"
   },
   {
     "Song": "September",
@@ -4757,35 +4820,42 @@
     "entity_text": "September",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "found the love that we shared in September Only blue talk and love, remember, the true love we share today Hey, hey, hey! ya, say,"
+    "Lyrics": "found the love that we shared in September Only blue talk and love, remember, the true love we share today say, do you remember? dancin'"
   },
   {
     "Song": "September",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "found the love that we shared in September Only blue talk and love, remember, the true love we share today Hey, hey, hey! ya, say,"
+    "Lyrics": "found the love that we shared in September Only blue talk and love, remember, the true love we share today say, do you remember? dancin'"
   },
   {
     "Song": "September",
     "entity_text": "September",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "we shared in September Only blue talk and love, remember, the true love we share today Hey, hey, hey! ya, say, do you remember? ya,"
+    "Lyrics": "we shared in September Only blue talk and love, remember, the true love we share today say, do you remember? dancin' in September never was"
   },
   {
     "Song": "September",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "we shared in September Only blue talk and love, remember, the true love we share today Hey, hey, hey! ya, say, do you remember? ya,"
+    "Lyrics": "we shared in September Only blue talk and love, remember, the true love we share today say, do you remember? dancin' in September never was"
+  },
+  {
+    "Song": "September",
+    "entity_text": "September",
+    "entity_label": "DATE",
+    "Year": 1979.0,
+    "Lyrics": "we shared in September Only blue talk and love, remember, the true love we share today say, do you remember? dancin' in September never was"
   },
   {
     "Song": "Promises",
     "entity_text": "years",
     "entity_label": "DATE",
     "Year": 1979.0,
-    "Lyrics": "How could we know that promises end? la, la, I tried to love you for years upon years You refuse to take me for real"
+    "Lyrics": "be friends How could we know that promises end? I tried to love you for years upon years You refuse to take me for real"
   },
   {
     "Song": "Somewhere In The Night",
@@ -4953,14 +5023,14 @@
     "entity_text": "tomorrow",
     "entity_label": "DATE",
     "Year": 1980.0,
-    "Lyrics": "the way , tomorrow we can start today In a special light Love could be good or bad or in between But this much I"
+    "Lyrics": "lead the way tomorrow we can start today In a special light Love could be good or bad or in between But this much I"
   },
   {
     "Song": "Desire",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 1980.0,
-    "Lyrics": "the way , tomorrow we can start today In a special light Love could be good or bad or in between But this much I"
+    "Lyrics": "lead the way tomorrow we can start today In a special light Love could be good or bad or in between But this much I"
   },
   {
     "Song": "Romeo's Tune",
@@ -5212,28 +5282,28 @@
     "entity_text": "a sunny day",
     "entity_label": "DATE",
     "Year": 1981.0,
-    "Lyrics": "my cares away I wake up to a sunny day 'Cause I love a rainy night Yeah, I love a rainy night Well, I love"
+    "Lyrics": "my cares away I wake up to a sunny day 'Cause I love a rainy night I love a rainy night Well, I love a"
   },
   {
     "Song": "I Love A Rainy Night",
     "entity_text": "a sunny day",
     "entity_label": "DATE",
     "Year": 1981.0,
-    "Lyrics": "to a sunny day 'Cause I love a rainy night Yeah, I love a rainy night Well, I love a rainy night Well, I love"
+    "Lyrics": "up to a sunny day 'Cause I love a rainy night I love a rainy night Well, I love a rainy night Well, I love"
   },
   {
     "Song": "I Love A Rainy Night",
     "entity_text": "a sunny day",
     "entity_label": "DATE",
     "Year": 1981.0,
-    "Lyrics": "my cares away I wake up to a sunny day 'Cause I love a rainy night Yeah, I love a rainy night Well, I love"
+    "Lyrics": "my cares away I wake up to a sunny day 'Cause I love a rainy night I love a rainy night Well, I love a"
   },
   {
     "Song": "I Love A Rainy Night",
     "entity_text": "a sunny day",
     "entity_label": "DATE",
     "Year": 1981.0,
-    "Lyrics": "to a sunny day 'Cause I love a rainy night Yeah, I love a rainy night Well, I love a rainy night I love a"
+    "Lyrics": "up to a sunny day 'Cause I love a rainy night I love a rainy night Well, I love a rainy night I love a"
   },
   {
     "Song": "Every Woman In The World",
@@ -5268,7 +5338,7 @@
     "entity_text": "every single day",
     "entity_label": "DATE",
     "Year": 1981.0,
-    "Lyrics": "you every single day Why must my life be filled with sorrow, Love you more than I can say Oh, don't you know I need"
+    "Lyrics": "you every single day Why must my life be filled with sorrow, Love you more than I can say don't you know I need you"
   },
   {
     "Song": "More Than I Can Say",
@@ -5310,14 +5380,14 @@
     "entity_text": "late at night",
     "entity_label": "TIME",
     "Year": 1981.0,
-    "Lyrics": "I'd never let her go And late at night, You know I'd love her so Yeah, I'd treat her right, So she'd never mind But"
+    "Lyrics": "I'd never let her go And late at night, You know I'd love her so I'd treat her right, So she'd never mind But this"
   },
   {
     "Song": "Feels So Right",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1981.0,
-    "Lyrics": "with me And keep me warm tonight Just hold me close and love me Give my heart a smile Mmm, feels so right, feels so"
+    "Lyrics": "with me And keep me warm tonight Just hold me close and love me Give my heart a smile feels so right, feels so right"
   },
   {
     "Song": "It's Now Or Never",
@@ -5436,14 +5506,14 @@
     "entity_text": "'65",
     "entity_label": "DATE",
     "Year": 1982.0,
-    "Lyrics": "still be mine I wouldn't be so blind To that wonderful '65 Love Affair When rock 'n' roll was simple and clear Oh, I still"
+    "Lyrics": "still be mine I wouldn't be so blind To that wonderful '65 Love Affair When rock 'n' roll was simple and clear I still can"
   },
   {
     "Song": "Love's Been A Little Bit Hard On Me",
     "entity_text": "a thousand years",
     "entity_label": "DATE",
     "Year": 1982.0,
-    "Lyrics": "see you 'round in a thousand years love's been a little Oh, love know it's just been a little It's hard on me"
+    "Lyrics": "I'll see you 'round in a thousand years love's been a little love know it's just been a little It's hard on me"
   },
   {
     "Song": "Freeze-Frame",
@@ -5583,7 +5653,7 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1982.0,
-    "Lyrics": "after all oh? Is it crazy, is it right? I really wanna love him tonight Should I do it, should I play? Can I help"
+    "Lyrics": "it after all Is it crazy, is it right? I really wanna love him tonight Should I do it, should I play? Can I help"
   },
   {
     "Song": "Edge Of Seventeen",
@@ -5887,13 +5957,6 @@
     "Lyrics": "hall days Dance hall days love Dance hall days Dance hall days love"
   },
   {
-    "Song": "Got A Hold On Me",
-    "entity_text": "Every day",
-    "entity_label": "DATE",
-    "Year": 1984.0,
-    "Lyrics": "about you Every day and night Ooh, I got a love This love Yeah, I got a love This love Well, I've been in love"
-  },
-  {
     "Song": "Careless Whisper",
     "entity_text": "Tonight",
     "entity_label": "TIME",
@@ -5933,7 +5996,7 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1985.0,
-    "Lyrics": "'Cause tonight is the night that I'm feeling alright We'll be making love the whole night through So I'm saving all my love Yeah, I'm"
+    "Lyrics": "'Cause tonight is the night that I'm feeling alright We'll be making love the whole night through So I'm saving all my love I'm saving"
   },
   {
     "Song": "You're The Inspiration",
@@ -6269,7 +6332,7 @@
     "entity_text": "all day",
     "entity_label": "DATE",
     "Year": 1987.0,
-    "Lyrics": "all day, working for her man She brings home her pay for love, mmm, for love She says, We've got to hold on to what"
+    "Lyrics": "all day, working for her man She brings home her pay for love, for love She says, We've got to hold on to what we've"
   },
   {
     "Song": "Everybody Have Fun Tonight",
@@ -6423,21 +6486,28 @@
     "entity_text": "the night",
     "entity_label": "TIME",
     "Year": 1987.0,
-    "Lyrics": "Looking out for love In the night so still Oh, I'll build you a kingdom In"
+    "Lyrics": "Looking out for love In the night so still I'll build you a kingdom In that"
   },
   {
     "Song": "Midnight Blue",
     "entity_text": "midnight",
     "entity_label": "TIME",
     "Year": 1987.0,
-    "Lyrics": "Yeah, I'll be back for you You see, I'm saving up my love Midnight blue, oh, Into the midnight blue, oh, Another midnight blue, oh,"
+    "Lyrics": "again I'll be back for you You see, I'm saving up my love Midnight blue, Into the midnight blue, Another midnight blue, The deepest midnight"
   },
   {
     "Song": "Midnight Blue",
     "entity_text": "midnight",
     "entity_label": "TIME",
     "Year": 1987.0,
-    "Lyrics": "Yeah, I'll be back for you You see, I'm saving up my love Midnight blue, oh, Into the midnight blue, oh, Another midnight blue, oh,"
+    "Lyrics": "again I'll be back for you You see, I'm saving up my love Midnight blue, Into the midnight blue, Another midnight blue, The deepest midnight"
+  },
+  {
+    "Song": "Midnight Blue",
+    "entity_text": "midnight",
+    "entity_label": "TIME",
+    "Year": 1987.0,
+    "Lyrics": "again I'll be back for you You see, I'm saving up my love Midnight blue, Into the midnight blue, Another midnight blue, The deepest midnight"
   },
   {
     "Song": "Brilliant Disguise",
@@ -6528,7 +6598,7 @@
     "entity_text": "the night",
     "entity_label": "TIME",
     "Year": 1988.0,
-    "Lyrics": "tight Don't you want me like I want you To kiss and love all through the night Want me , don't you want me Want"
+    "Lyrics": "tight Don't you want me like I want you To kiss and love all through the night Want me don't you want me Want me"
   },
   {
     "Song": "1-2-3",
@@ -6626,35 +6696,35 @@
     "entity_text": "tomorrow",
     "entity_label": "DATE",
     "Year": 1989.0,
-    "Lyrics": "way every day Wanna be with you night and day Hey, I love your way If I leave here tomorrow Would you still remember me?"
+    "Lyrics": "your way every day Wanna be with you night and day I love your way If I leave here tomorrow Would you still remember me?"
   },
   {
     "Song": "Baby, I Love Your Way-Freebird",
     "entity_text": "Every day",
     "entity_label": "DATE",
     "Year": 1989.0,
-    "Lyrics": "won't wait Ooh, baby I love your way Wanna tell you I love your way Oh, baby, I love your way Every day now wanna"
+    "Lyrics": "love won't wait baby I love your way Wanna tell you I love your way baby, I love your way Every day now wanna tell"
   },
   {
     "Song": "Baby, I Love Your Way-Freebird",
     "entity_text": "Every day",
     "entity_label": "DATE",
     "Year": 1989.0,
-    "Lyrics": "your way Wanna tell you I love your way Oh, baby, I love your way Every day now wanna tell you I love your way"
+    "Lyrics": "love your way Wanna tell you I love your way baby, I love your way Every day now wanna tell you I love your way"
   },
   {
     "Song": "Baby, I Love Your Way-Freebird",
     "entity_text": "Every day",
     "entity_label": "DATE",
     "Year": 1989.0,
-    "Lyrics": "baby, I love your way Every day now wanna tell you I love your way I love your way Ooh, baby I love your way"
+    "Lyrics": "baby, I love your way Every day now wanna tell you I love your way I love your way baby I love your way Give"
   },
   {
     "Song": "Baby, I Love Your Way-Freebird",
     "entity_text": "Every day",
     "entity_label": "DATE",
     "Year": 1989.0,
-    "Lyrics": "way Every day now wanna tell you I love your way I love your way Ooh, baby I love your way Give me you way"
+    "Lyrics": "way Every day now wanna tell you I love your way I love your way baby I love your way Give me you way Wanna"
   },
   {
     "Song": "Girl I'm Gonna Miss You",
@@ -6662,6 +6732,13 @@
     "entity_label": "DATE",
     "Year": 1989.0,
     "Lyrics": "the day we met Girl I'm gonna miss you Giving all the love I feel for you Couldn't make you change your point of view"
+  },
+  {
+    "Song": "Sowing The Seeds Of Love",
+    "entity_text": "these days",
+    "entity_label": "DATE",
+    "Year": 1989.0,
+    "Lyrics": "these days they're gonna call it the blues, Sowing the seeds of love, seeds of love Anything is possible when you're sowing the seeds of"
   },
   {
     "Song": "Sowing The Seeds Of Love",
@@ -6850,28 +6927,28 @@
     "entity_text": "All night",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "you I got loving arms to hold onto Whoa, oh, we made love Love like strangers All night long We made love Then it happened"
+    "Lyrics": "love to you I got loving arms to hold onto we made love Love like strangers All night long We made love Then it happened"
   },
   {
     "Song": "All I Wanna Do Is Make Love To You",
     "entity_text": "All night",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "I got loving arms to hold onto Whoa, oh, we made love Love like strangers All night long We made love Then it happened one"
+    "Lyrics": "to you I got loving arms to hold onto we made love Love like strangers All night long We made love Then it happened one"
   },
   {
     "Song": "All I Wanna Do Is Make Love To You",
     "entity_text": "All night",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "oh, we made love Love like strangers All night long We made love Then it happened one day We came 'round the same way You"
+    "Lyrics": "onto we made love Love like strangers All night long We made love Then it happened one day We came 'round the same way You"
   },
   {
     "Song": "All I Wanna Do Is Make Love To You",
     "entity_text": "one day",
     "entity_label": "DATE",
     "Year": 1990.0,
-    "Lyrics": "oh, we made love Love like strangers All night long We made love Then it happened one day We came 'round the same way You"
+    "Lyrics": "onto we made love Love like strangers All night long We made love Then it happened one day We came 'round the same way You"
   },
   {
     "Song": "All I Wanna Do Is Make Love To You",
@@ -6962,21 +7039,21 @@
     "entity_text": "tomorrow",
     "entity_label": "DATE",
     "Year": 1990.0,
-    "Lyrics": "to save me from being alone 'Cause I can't live without your love Mmm, your love Here for an answer And wonder if tomorrow will"
+    "Lyrics": "to save me from being alone 'Cause I can't live without your love your love Here for an answer And wonder if tomorrow will be"
   },
   {
     "Song": "(Can't Live Without Your) Love And Affection",
     "entity_text": "tomorrow",
     "entity_label": "DATE",
     "Year": 1990.0,
-    "Lyrics": "from being alone 'Cause I can't live without your love Mmm, your love Here for an answer And wonder if tomorrow will be like yesterday"
+    "Lyrics": "me from being alone 'Cause I can't live without your love your love Here for an answer And wonder if tomorrow will be like yesterday"
   },
   {
     "Song": "(Can't Live Without Your) Love And Affection",
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1990.0,
-    "Lyrics": "from being alone 'Cause I can't live without your love Mmm, your love Here for an answer And wonder if tomorrow will be like yesterday"
+    "Lyrics": "me from being alone 'Cause I can't live without your love your love Here for an answer And wonder if tomorrow will be like yesterday"
   },
   {
     "Song": "(Can't Live Without Your) Love And Affection",
@@ -7011,7 +7088,7 @@
     "entity_text": "last night",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "the time of my life It's true Oh, last night, I made love for the very first time With you I never knew love could"
+    "Lyrics": "had the time of my life It's true last night, I made love for the very first time With you I never knew love could"
   },
   {
     "Song": "Can't Stop",
@@ -7039,14 +7116,14 @@
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1990.0,
-    "Lyrics": "'Cause you'll always be my dream come true Oh, my darling, I love you Remember yesterday walking hand in hand Love letters in the sands"
+    "Lyrics": "away 'Cause you'll always be my dream come true my darling, I love you Remember yesterday walking hand in hand Love letters in the sands"
   },
   {
     "Song": "I Remember You",
     "entity_text": "yesterday",
     "entity_label": "DATE",
     "Year": 1990.0,
-    "Lyrics": "Oh, my darling, I love you Remember yesterday walking hand in hand Love letters in the sands I remember you Through the sleepless nights, through"
+    "Lyrics": "true my darling, I love you Remember yesterday walking hand in hand Love letters in the sands I remember you Through the sleepless nights, through"
   },
   {
     "Song": "I Remember You",
@@ -7060,14 +7137,14 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "gonna run tonight Ooh, that's right Well, you've had your way with love But it's the end of the day Now a team of wild"
+    "Lyrics": "you're gonna run tonight that's right Well, you've had your way with love But it's the end of the day Now a team of wild"
   },
   {
     "Song": "Just Like Jesse James",
     "entity_text": "the end of the day",
     "entity_label": "DATE",
     "Year": 1990.0,
-    "Lyrics": "gonna run tonight Ooh, that's right Well, you've had your way with love But it's the end of the day Now a team of wild"
+    "Lyrics": "you're gonna run tonight that's right Well, you've had your way with love But it's the end of the day Now a team of wild"
   },
   {
     "Song": "We Can't Go Wrong",
@@ -7102,14 +7179,14 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "in sight I'm talkin' about the... Jerk out Got to make some love tonight All night Oh, I got to make some love Jerk it,"
+    "Lyrics": "in sight I'm talkin' about the... Jerk out Got to make some love tonight All night I got to make some love Jerk it, jerk"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "make some love tonight All night Oh, I got to make some love Jerk it, jerk it I'm talkin' about the Jerk it, jerk it"
+    "Lyrics": "to make some love tonight All night I got to make some love Jerk it, jerk it I'm talkin' about the Jerk it, jerk it"
   },
   {
     "Song": "Jerk Out",
@@ -7123,63 +7200,63 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "Jerk out Jerkin' everything in sight Jerk out Got to make some love tonight? Fellas? Yeah? What's the move? Jerkin' everything in sight! Uh, fellas?"
+    "Lyrics": "Jerk out Jerkin' everything in sight Jerk out Got to make some love tonight? Fellas? What's the move? Jerkin' everything in sight! fellas? What's the"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "everything in sight! Uh, fellas? Yeah? What's the groove? Make a little love tonight! That's right, fellas? Yeah? What's the move? Jerkin' everything in sight!"
+    "Lyrics": "move? Jerkin' everything in sight! fellas? What's the groove? Make a little love tonight! That's right, fellas? What's the move? Jerkin' everything in sight! fellas?"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "everything in sight! Huh, fellas? Yeah? What's the groove? Make a little love tonight Look out, fellas? Yeah? What's the move? Jerkin' everything in sight!"
+    "Lyrics": "move? Jerkin' everything in sight! fellas? What's the groove? Make a little love tonight Look out, fellas? What's the move? Jerkin' everything in sight! Ha,"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "everything in sight! Ha, fellas? Yeah? What's the groove? Make a little love tonight Fellas? Yeah? What's the move? Jerkin' everything in sight! Good God,"
+    "Lyrics": "Jerkin' everything in sight! Ha, fellas? What's the groove? Make a little love tonight Fellas? What's the move? Jerkin' everything in sight! Good God, fellas?"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "in sight! Good God, fellas? Yeah? What's the groove? Make a little love tonight! Somebody bring me a mirror What suit should I wear tonight?"
+    "Lyrics": "everything in sight! Good God, fellas? What's the groove? Make a little love tonight! Somebody bring me a mirror What suit should I wear tonight?"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "in sight! Good God, fellas? Yeah? What's the groove? Make a little love tonight! Somebody bring me a mirror What suit should I wear tonight?"
+    "Lyrics": "everything in sight! Good God, fellas? What's the groove? Make a little love tonight! Somebody bring me a mirror What suit should I wear tonight?"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "Somebody say Kool Aid! Kool Aid! Jerk it.... uh! Make a little love tonight. What? Jerkin' everything in sight. Oh, that's right Make a little"
+    "Lyrics": "right Somebody say Kool Aid! Kool Aid! Jerk it.... Make a little love tonight. What? Jerkin' everything in sight. that's right Make a little love"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "tonight. What? Jerkin' everything in sight. Oh, that's right Make a little love tonight. Lawd Jerkin' everything in sight. That's frightenin' Make a little love"
+    "Lyrics": "love tonight. What? Jerkin' everything in sight. that's right Make a little love tonight. Lawd Jerkin' everything in sight. That's frightenin' Make a little love"
   },
   {
     "Song": "Jerk Out",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "tonight. What? Jerkin' everything in sight. Oh, that's right Make a little love tonight. Lawd Jerkin' everything in sight. That's frightenin' Make a little love"
+    "Lyrics": "love tonight. What? Jerkin' everything in sight. that's right Make a little love tonight. Lawd Jerkin' everything in sight. That's frightenin' Make a little love"
   },
   {
     "Song": "Jerk Out",
@@ -7270,35 +7347,35 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "In the temple tonight Oh, thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the"
+    "Lyrics": "temple In the temple tonight thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the"
   },
   {
     "Song": "Thieves In The Temple",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "In the temple tonight Oh, thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the"
+    "Lyrics": "temple In the temple tonight thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the"
   },
   {
     "Song": "Thieves In The Temple",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "tonight Oh, thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the temple tonight Thieves"
+    "Lyrics": "temple tonight thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the temple tonight Thieves"
   },
   {
     "Song": "Thieves In The Temple",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "tonight Oh, thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the temple tonight Thieves"
+    "Lyrics": "temple tonight thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the temple tonight Thieves"
   },
   {
     "Song": "Thieves In The Temple",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1990.0,
-    "Lyrics": "tonight Oh, thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the temple tonight Thieves"
+    "Lyrics": "temple tonight thieves in the temple tonight Hurt me Love come quick Love come in a hurry There are thieves in the temple tonight Thieves"
   },
   {
     "Song": "I Wanna Sex You Up",
@@ -7382,7 +7459,7 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "your time Oh, no So tell me what to do For the love of you tonight 'Cuz I've been holding back what I feel Love's"
+    "Lyrics": "wasting your time no So tell me what to do For the love of you tonight 'Cuz I've been holding back what I feel Love's"
   },
   {
     "Song": "I Can't Wait Another Minute",
@@ -7424,49 +7501,49 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "once again Oh, no So tell me what to do For the love of you tonight Baby, tonight Your love Oh, I know that we"
+    "Lyrics": "chance once again no So tell me what to do For the love of you tonight Baby, tonight Your love I know that we don't"
   },
   {
     "Song": "I Can't Wait Another Minute",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "once again Oh, no So tell me what to do For the love of you tonight Baby, tonight Your love Oh, I know that we"
+    "Lyrics": "chance once again no So tell me what to do For the love of you tonight Baby, tonight Your love I know that we don't"
   },
   {
     "Song": "I Can't Wait Another Minute",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "what to do For the love of you tonight Baby, tonight Your love Oh, I know that we don't know each other well But I"
+    "Lyrics": "what to do For the love of you tonight Baby, tonight Your love I know that we don't know each other well But I can't"
   },
   {
     "Song": "I Can't Wait Another Minute",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "what to do For the love of you tonight Baby, tonight Your love Oh, I know that we don't know each other well But I"
+    "Lyrics": "what to do For the love of you tonight Baby, tonight Your love I know that we don't know each other well But I can't"
   },
   {
     "Song": "I Can't Wait Another Minute",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "your time Oh, no So tell me what to do for the love of you Tonight Tonight, baby Don't make me wait another minute no,"
+    "Lyrics": "wasting your time no So tell me what to do for the love of you Tonight Tonight, baby Don't make me wait another minute no,"
   },
   {
     "Song": "I Can't Wait Another Minute",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "your time Oh, no So tell me what to do for the love of you Tonight Tonight, baby Don't make me wait another minute no,"
+    "Lyrics": "wasting your time no So tell me what to do for the love of you Tonight Tonight, baby Don't make me wait another minute no,"
   },
   {
     "Song": "I Can't Wait Another Minute",
     "entity_text": "another minute",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "your time Oh, no So tell me what to do for the love of you Tonight Tonight, baby Don't make me wait another minute no,"
+    "Lyrics": "wasting your time no So tell me what to do for the love of you Tonight Tonight, baby Don't make me wait another minute no,"
   },
   {
     "Song": "I Can't Wait Another Minute",
@@ -7487,14 +7564,14 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "you You give me all my dreams come true I want to love you, love you tonight oh, my darlin' Yes I do Yeah, yeah,"
+    "Lyrics": "you You give me all my dreams come true I want to love you, love you tonight my darlin' Yes I do I will never"
   },
   {
     "Song": "I'll Give All My Love To You",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1991.0,
-    "Lyrics": "give me all my dreams come true I want to love you, love you tonight oh, my darlin' Yes I do Yeah, yeah, I will"
+    "Lyrics": "give me all my dreams come true I want to love you, love you tonight my darlin' Yes I do I will never do anything"
   },
   {
     "Song": "I'll Give All My Love To You",
@@ -7525,6 +7602,13 @@
     "Lyrics": "door Months go by, and I know for certain It's not the love, I'm lookin' for Some times, just for a moment I reach out"
   },
   {
+    "Song": "End Of The Road",
+    "entity_text": "all night",
+    "entity_label": "TIME",
+    "Year": 1992.0,
+    "Lyrics": "all night Just like you did baby but that's all right I love you anyway And I'm still gonna be here for you 'till my"
+  },
+  {
     "Song": "Baby-Baby-Baby",
     "entity_text": "noon",
     "entity_label": "TIME",
@@ -7543,7 +7627,7 @@
     "entity_text": "that day",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "like I did that day But take me to the place I love, take me all the way Yeah, It's hard to believe that there's"
+    "Lyrics": "like I did that day But take me to the place I love, take me all the way It's hard to believe that there's nobody"
   },
   {
     "Song": "Under The Bridge",
@@ -7557,7 +7641,7 @@
     "entity_text": "that day",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "like I did that day But take me to the place I love, take me all the way Yeah, Oh, no, no, no, Love me,"
+    "Lyrics": "like I did that day But take me to the place I love, take me all the way no, no, no, Love me, I say,"
   },
   {
     "Song": "Damn I Wish I Was Your Lover",
@@ -7613,77 +7697,84 @@
     "entity_text": "Wednesday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Oh, Thursday"
+    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Thursday doesn't"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Thursday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Oh, Thursday"
+    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Thursday doesn't"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Friday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Oh, Thursday"
+    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Thursday doesn't"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Monday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Oh, Thursday"
+    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Thursday doesn't"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Tuesday, Wednesday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Oh, Thursday"
+    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Thursday doesn't"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Thursday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Oh, Thursday"
+    "Lyrics": "Wednesday too Thursday I don't care about you It's Friday, I'm in love Monday you can fall apart Tuesday, Wednesday, break my heart Thursday doesn't"
+  },
+  {
+    "Song": "Friday I'm In Love",
+    "entity_text": "Wednesday",
+    "entity_label": "DATE",
+    "Year": 1992.0,
+    "Lyrics": "Wednesday, break my heart Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Thursday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "break my heart Oh, Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
+    "Lyrics": "Wednesday, break my heart Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Friday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "break my heart Oh, Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
+    "Lyrics": "Wednesday, break my heart Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Saturday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "break my heart Oh, Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
+    "Lyrics": "Wednesday, break my heart Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Sunday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "break my heart Oh, Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
+    "Lyrics": "Wednesday, break my heart Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
   },
   {
     "Song": "Friday I'm In Love",
     "entity_text": "Friday",
     "entity_label": "DATE",
     "Year": 1992.0,
-    "Lyrics": "break my heart Oh, Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
+    "Lyrics": "Wednesday, break my heart Thursday doesn't even start It's Friday, I'm in love Saturday, wait And Sunday always comes too late But Friday, never hesitate"
   },
   {
     "Song": "Friday I'm In Love",
@@ -7866,6 +7957,13 @@
     "entity_label": "DATE",
     "Year": 1992.0,
     "Lyrics": "Wednesday break my heart Thursday doesn't even start It's Friday, I'm in love"
+  },
+  {
+    "Song": "Everything Changes",
+    "entity_text": "yesterday",
+    "entity_label": "DATE",
+    "Year": 1992.0,
+    "Lyrics": "changed everything Now I shine like new because I've got you ain't love a wonderful thing you took my blues made them yesterday's news And"
   },
   {
     "Song": "Real Love",
@@ -7949,7 +8047,7 @@
     "entity_text": "all night",
     "entity_label": "TIME",
     "Year": 1993.0,
-    "Lyrics": "us, babe Good lovin, body rockin' knockin' boots all night long Makin' love until we tire to the break of dawn But oh, come on,"
+    "Lyrics": "us, babe Good lovin, body rockin' knockin' boots all night long Makin' love until we tire to the break of dawn But come on, a"
   },
   {
     "Song": "Show Me Love",
@@ -7984,14 +8082,14 @@
     "entity_text": "all night",
     "entity_label": "TIME",
     "Year": 1993.0,
-    "Lyrics": "radio last night So sad So sad, so sad So sad, sad love song Ooh, you got me singing another love song all night It's"
+    "Lyrics": "radio last night So sad So sad, so sad So sad, sad love song you got me singing another love song all night It's just"
   },
   {
     "Song": "Another Sad Love Song",
     "entity_text": "all night",
     "entity_label": "TIME",
     "Year": 1993.0,
-    "Lyrics": "sad So sad, sad love song Ooh, you got me singing another love song all night It's just another sad love song Racking my brain"
+    "Lyrics": "so sad So sad, sad love song you got me singing another love song all night It's just another sad love song Racking my brain"
   },
   {
     "Song": "Another Sad Love Song",
@@ -8019,7 +8117,7 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1993.0,
-    "Lyrics": "both can go beyong the stars tonight Oh, once you have it Love works like magic Just open Open up your heart Theres nothing my"
+    "Lyrics": "We both can go beyong the stars tonight once you have it Love works like magic Just open Open up your heart Theres nothing my"
   },
   {
     "Song": "Nothin' My Love Can't Fix",
@@ -8733,7 +8831,7 @@
     "entity_text": "the night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "me, oh, and rock me through the night This youthful heart can love you and give you what you need I said this youthful heart"
+    "Lyrics": "hold me, and rock me through the night This youthful heart can love you and give you what you need I said this youthful heart"
   },
   {
     "Song": "Twisted",
@@ -8775,14 +8873,14 @@
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
@@ -8796,21 +8894,14 @@
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
-  },
-  {
-    "Song": "Last Night",
-    "entity_text": "Last night",
-    "entity_label": "TIME",
-    "Year": 1996.0,
-    "Lyrics": "in love, that's when it comes And I'm so, I'm so in love Last night I was inside of you Last night While making love"
+    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
@@ -8824,42 +8915,21 @@
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "love Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "in love, that's when it comes And I'm so, I'm so in love Last night I was inside of you Last night While making love"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "love Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "love Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "the mountains and the rivers I saw heaven when I made sweet love to you Last night I was inside of you Last night While"
-  },
-  {
-    "Song": "Last Night",
-    "entity_text": "Last night",
-    "entity_label": "TIME",
-    "Year": 1996.0,
-    "Lyrics": "the mountains and the rivers I saw heaven when I made sweet love to you Last night I was inside of you Last night While"
-  },
-  {
-    "Song": "Last Night",
-    "entity_text": "Last night",
-    "entity_label": "TIME",
-    "Year": 1996.0,
-    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
-  },
-  {
-    "Song": "Last Night",
-    "entity_text": "Last night",
-    "entity_label": "TIME",
-    "Year": 1996.0,
-    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "love Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
@@ -8880,14 +8950,42 @@
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1996.0,
-    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
+  },
+  {
+    "Song": "Last Night",
+    "entity_text": "Last night",
+    "entity_label": "TIME",
+    "Year": 1996.0,
+    "Lyrics": "the mountains and the rivers I saw heaven when I made sweet love to you Last night I was inside of you Last night While"
+  },
+  {
+    "Song": "Last Night",
+    "entity_text": "Last night",
+    "entity_label": "TIME",
+    "Year": 1996.0,
+    "Lyrics": "the mountains and the rivers I saw heaven when I made sweet love to you Last night I was inside of you Last night While"
+  },
+  {
+    "Song": "Last Night",
+    "entity_text": "Last night",
+    "entity_label": "TIME",
+    "Year": 1996.0,
+    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
+  },
+  {
+    "Song": "Last Night",
+    "entity_text": "Last night",
+    "entity_label": "TIME",
+    "Year": 1996.0,
+    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "All The Things (Your Man Won't Do)",
@@ -8936,21 +9034,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "'Cause tonight is the night, when two become one I need some love like I never needed love before Wanna make love to ya, baby"
+    "Lyrics": "'Cause tonight is the night, when two become one I need some love like I never needed love before Wanna make love to baby I"
   },
   {
     "Song": "2 Become 1",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "'Cause tonight is the night, when two become one I need some love like I never needed love before Wanna make love to ya, baby"
+    "Lyrics": "'Cause tonight is the night, when two become one I need some love like I never needed love before Wanna make love to baby I"
   },
   {
     "Song": "2 Become 1",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "'Cause tonight is the night, when two become one I need some love like I never needed love before Wanna make love to ya, baby"
+    "Lyrics": "'Cause tonight is the night, when two become one I need some love like I never needed love before Wanna make love to baby I"
   },
   {
     "Song": "Ooh Aah... Just A Little Bit",
@@ -8978,14 +9076,14 @@
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
@@ -8999,21 +9097,14 @@
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
-  },
-  {
-    "Song": "Last Night",
-    "entity_text": "Last night",
-    "entity_label": "TIME",
-    "Year": 1997.0,
-    "Lyrics": "in love, that's when it comes And I'm so, I'm so in love Last night I was inside of you Last night While making love"
+    "Lyrics": "beautiful Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
@@ -9027,42 +9118,21 @@
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "love Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "in love, that's when it comes And I'm so, I'm so in love Last night I was inside of you Last night While making love"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "love Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "love Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "the mountains and the rivers I saw heaven when I made sweet love to you Last night I was inside of you Last night While"
-  },
-  {
-    "Song": "Last Night",
-    "entity_text": "Last night",
-    "entity_label": "TIME",
-    "Year": 1997.0,
-    "Lyrics": "the mountains and the rivers I saw heaven when I made sweet love to you Last night I was inside of you Last night While"
-  },
-  {
-    "Song": "Last Night",
-    "entity_text": "Last night",
-    "entity_label": "TIME",
-    "Year": 1997.0,
-    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
-  },
-  {
-    "Song": "Last Night",
-    "entity_text": "Last night",
-    "entity_label": "TIME",
-    "Year": 1997.0,
-    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "love Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
@@ -9083,14 +9153,42 @@
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "Last Night",
     "entity_text": "Last night",
     "entity_label": "TIME",
     "Year": 1997.0,
-    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun , the moon , the mountains"
+    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
+  },
+  {
+    "Song": "Last Night",
+    "entity_text": "Last night",
+    "entity_label": "TIME",
+    "Year": 1997.0,
+    "Lyrics": "the mountains and the rivers I saw heaven when I made sweet love to you Last night I was inside of you Last night While"
+  },
+  {
+    "Song": "Last Night",
+    "entity_text": "Last night",
+    "entity_label": "TIME",
+    "Year": 1997.0,
+    "Lyrics": "the mountains and the rivers I saw heaven when I made sweet love to you Last night I was inside of you Last night While"
+  },
+  {
+    "Song": "Last Night",
+    "entity_text": "Last night",
+    "entity_label": "TIME",
+    "Year": 1997.0,
+    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
+  },
+  {
+    "Song": "Last Night",
+    "entity_text": "Last night",
+    "entity_label": "TIME",
+    "Year": 1997.0,
+    "Lyrics": "you Last night I was inside of you Last night While making love to you I saw the sun the moon the mountains and the"
   },
   {
     "Song": "You Should Be Mine (Don't Waste Your Time)",
@@ -9405,14 +9503,14 @@
     "entity_text": "this day",
     "entity_label": "DATE",
     "Year": 2000.0,
-    "Lyrics": "So I question all this being' real 'Cause I'm not afraid to love For the first time I'm not afraid of love Oh, this day"
+    "Lyrics": "So I question all this being' real 'Cause I'm not afraid to love For the first time I'm not afraid of love this day seems"
   },
   {
     "Song": "You Sang To Me",
     "entity_text": "this day",
     "entity_label": "DATE",
     "Year": 2000.0,
-    "Lyrics": "not afraid to love For the first time I'm not afraid of love Oh, this day seems made for you and me And you showed"
+    "Lyrics": "not afraid to love For the first time I'm not afraid of love this day seems made for you and me And you showed me"
   },
   {
     "Song": "Incomplete",
@@ -9443,6 +9541,13 @@
     "Lyrics": "for the broken heart It is hard to see in a crimson love So hard to breathe Walk with me, and maybe Nights of light"
   },
   {
+    "Song": "It Feels So Good",
+    "entity_text": "night",
+    "entity_label": "TIME",
+    "Year": 2000.0,
+    "Lyrics": "I'm alone at night It's you I'm always thinking of baby Your love, it feels so good And that's what takes me high Higher than"
+  },
+  {
     "Song": "No More",
     "entity_text": "54 11's",
     "entity_label": "DATE",
@@ -9454,7 +9559,7 @@
     "entity_text": "the next second",
     "entity_label": "TIME",
     "Year": 2000.0,
-    "Lyrics": "for the next second I can feel you loving me I'm gonna love... I wanna lover you forever Oh, and this is all I'm asking"
+    "Lyrics": "for the next second I can feel you loving me I'm gonna love... I wanna lover you forever and this is all I'm asking of"
   },
   {
     "Song": "Only God Knows Why",
@@ -9524,28 +9629,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2000.0,
-    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight oh, Tender words you say Take"
+    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight Tender words you say Take my"
   },
   {
     "Song": "Waiting For Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2000.0,
-    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight oh, Tender words you say Take"
+    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight Tender words you say Take my"
   },
   {
     "Song": "Waiting For Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2000.0,
-    "Lyrics": "Waiting for tonight oh, Tender words you say Take my breath away Love me now and leave me never Found a sacred place Lost in"
-  },
-  {
-    "Song": "Waiting For Tonight",
-    "entity_text": "tonight",
-    "entity_label": "TIME",
-    "Year": 2000.0,
-    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight, When you would be here in"
+    "Lyrics": "long Waiting for tonight Tender words you say Take my breath away Love me now and leave me never Found a sacred place Lost in"
   },
   {
     "Song": "Waiting For Tonight",
@@ -9559,14 +9657,28 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2000.0,
-    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight oh, oh, oh, oh, oh, oh,"
+    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight, When you would be here in"
   },
   {
     "Song": "Waiting For Tonight",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2000.0,
-    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight oh, oh, oh, oh, oh, oh,"
+    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight Gone are the days when the"
+  },
+  {
+    "Song": "Waiting For Tonight",
+    "entity_text": "tonight",
+    "entity_label": "TIME",
+    "Year": 2000.0,
+    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight Gone are the days when the"
+  },
+  {
+    "Song": "Waiting For Tonight",
+    "entity_text": "the days",
+    "entity_label": "DATE",
+    "Year": 2000.0,
+    "Lyrics": "be here in my arms Waiting for tonight, I've dreamed of this love for so long Waiting for tonight Gone are the days when the"
   },
   {
     "Song": "Waiting For Tonight",
@@ -9643,7 +9755,7 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2001.0,
-    "Lyrics": "man Ooh, ooh, ooh, ah, ah, ooh, ooh, Boy I'mma make you love me, make you want me And I'mma give you some attention, tonight"
+    "Lyrics": "hand understand I don't want no minute man Boy I'mma make you love me, make you want me And I'mma give you some attention, tonight"
   },
   {
     "Song": "Only Time",
@@ -9699,7 +9811,7 @@
     "entity_text": "days",
     "entity_label": "DATE",
     "Year": 2001.0,
-    "Lyrics": "more precious than gold Happiness for days, justice all the way I love your music baby doo, Turn on some music turn on some music"
+    "Lyrics": "more precious than gold Happiness for days, justice all the way I love your music baby Turn on some music turn on some music Just"
   },
   {
     "Song": "Here's To The Night",
@@ -9811,7 +9923,7 @@
     "entity_text": "all night",
     "entity_label": "TIME",
     "Year": 2002.0,
-    "Lyrics": "mine And she was looking fine Smooth talker She told me She'd love to unfold me all night long Ooh, I loved the way she"
+    "Lyrics": "mine And she was looking fine Smooth talker She told me She'd love to unfold me all night long I loved the way she kicked"
   },
   {
     "Song": "7 Days",
@@ -10084,14 +10196,21 @@
     "entity_text": "last all night",
     "entity_label": "TIME",
     "Year": 2003.0,
-    "Lyrics": "love me, better love me strong 'Cause I want this love to love last all night long Oh, like... wo My love is like wo"
+    "Lyrics": "you're gonna love me, better love me strong 'Cause I want this love to love last all night long like... wo My love is like"
   },
   {
     "Song": "My Love is Like... Wo",
     "entity_text": "last all night",
     "entity_label": "TIME",
     "Year": 2003.0,
-    "Lyrics": "this love to love last all night long Oh, like... wo My love is like wo My kiss is like wo My touch is like"
+    "Lyrics": "love me, better love me strong 'Cause I want this love to love last all night long like... wo My love is like wo My"
+  },
+  {
+    "Song": "My Love is Like... Wo",
+    "entity_text": "last all night",
+    "entity_label": "TIME",
+    "Year": 2003.0,
+    "Lyrics": "want this love to love last all night long like... wo My love is like wo My kiss is like wo My touch is like"
   },
   {
     "Song": "She Hates Me",
@@ -10172,10 +10291,24 @@
   },
   {
     "Song": "The Way You Move",
+    "entity_text": "3000 1",
+    "entity_label": "DATE",
+    "Year": 2004.0,
+    "Lyrics": "love the way you move I love the way you move I love the way, I love the way Part. 2 André 3000 1, 2,"
+  },
+  {
+    "Song": "The Way You Move",
+    "entity_text": "3000 1",
+    "entity_label": "DATE",
+    "Year": 2004.0,
+    "Lyrics": "move I love the way you move I love the way, I love the way Part. 2 André 3000 1, 2, 3, My baby don't"
+  },
+  {
+    "Song": "The Way You Move",
     "entity_text": "3",
     "entity_label": "DATE",
     "Year": 2004.0,
-    "Lyrics": "move I love the way you move I love the way, I love the way Part. 2 André 3000 Ya! 1, 2, 3, uh! My"
+    "Lyrics": "move I love the way you move I love the way, I love the way Part. 2 André 3000 1, 2, 3, My baby don't"
   },
   {
     "Song": "Naughty Girl",
@@ -10343,7 +10476,7 @@
     "entity_text": "only nine years",
     "entity_label": "DATE",
     "Year": 2007.0,
-    "Lyrics": "Yeah, and it go a little somethin' Li li like this Runaway love runaway love Runaway love runaway love Now little Lisa's only nine years"
+    "Lyrics": "and it go a little somethin' Li li like this Runaway love runaway love Runaway love runaway love Now little Lisa's only nine years"
   },
   {
     "Song": "Runaway Love",
@@ -10602,35 +10735,35 @@
     "entity_text": "summer",
     "entity_label": "DATE",
     "Year": 2007.0,
-    "Lyrics": "wait to fall in love with me This just can't be summer love, you'll see This just can't be summer love Uh, Come here, baby"
+    "Lyrics": "wait to fall in love with me This just can't be summer love, you'll see This just can't be summer love Come here, baby And"
   },
   {
     "Song": "Summer Love",
     "entity_text": "summer",
     "entity_label": "DATE",
     "Year": 2007.0,
-    "Lyrics": "wait to fall in love with me This just can't be summer love, you'll see This just can't be summer love Uh, Come here, baby"
+    "Lyrics": "wait to fall in love with me This just can't be summer love, you'll see This just can't be summer love Come here, baby And"
   },
   {
     "Song": "Summer Love",
     "entity_text": "summer",
     "entity_label": "DATE",
     "Year": 2007.0,
-    "Lyrics": "just can't be summer love, you'll see This just can't be summer love Uh, Come here, baby And let me set the mood right 'Cause"
+    "Lyrics": "just can't be summer love, you'll see This just can't be summer love Come here, baby And let me set the mood right 'Cause I'm"
   },
   {
     "Song": "Summer Love",
     "entity_text": "summer",
     "entity_label": "DATE",
     "Year": 2007.0,
-    "Lyrics": "just can't be summer love, you'll see This just can't be summer love Uh, Come here, baby And let me set the mood right 'Cause"
+    "Lyrics": "just can't be summer love, you'll see This just can't be summer love Come here, baby And let me set the mood right 'Cause I'm"
   },
   {
     "Song": "Lost Without U",
     "entity_text": "every morning",
     "entity_label": "TIME",
     "Year": 2007.0,
-    "Lyrics": "you, can't help myself How does it feel to know that I love you, baby? Cause you will tell me every morning Ooh, alright, baby"
+    "Lyrics": "you, can't help myself How does it feel to know that I love you, baby? Cause you will tell me every morning alright, baby baby"
   },
   {
     "Song": "Bed",
@@ -10882,7 +11015,7 @@
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 2009.0,
-    "Lyrics": "luck I had was you And I know one thing That I love you I say hey, I'll be gone today But I'll be back"
+    "Lyrics": "luck I had was you And I know one thing That I love you I say I'll be gone today But I'll be back all"
   },
   {
     "Song": "Bedrock",
@@ -10903,56 +11036,56 @@
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Take it, take it , baby, baby Take it, take it , love me, love me Tonight, I'ma let you be the captain Tonight, I'ma"
+    "Lyrics": "big enough? Take it, take it baby, baby Take it, take it love me, love me Tonight, I'ma let you be the captain Tonight, I'ma"
   },
   {
     "Song": "Rude Boy",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Take it, take it , baby, baby Take it, take it , love me, love me Tonight, I'ma let you be the captain Tonight, I'ma"
+    "Lyrics": "big enough? Take it, take it baby, baby Take it, take it love me, love me Tonight, I'ma let you be the captain Tonight, I'ma"
   },
   {
     "Song": "Rude Boy",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "take it , baby, baby Take it, take it , love me, love me Tonight, I'ma let you be the captain Tonight, I'ma let you"
+    "Lyrics": "Take it, take it baby, baby Take it, take it love me, love me Tonight, I'ma let you be the captain Tonight, I'ma let you"
   },
   {
     "Song": "Rude Boy",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "take it , baby, baby Take it, take it , love me, love me Tonight, I'ma let you be the captain Tonight, I'ma let you"
+    "Lyrics": "Take it, take it baby, baby Take it, take it love me, love me Tonight, I'ma let you be the captain Tonight, I'ma let you"
   },
   {
     "Song": "Rude Boy",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Take it, take it , baby, baby Take it, take it , love me, love me Tonight, I'ma give it to harder Tonight, I'ma turn"
+    "Lyrics": "big enough? Take it, take it baby, baby Take it, take it love me, love me Tonight, I'ma give it to harder Tonight, I'ma turn"
   },
   {
     "Song": "Rude Boy",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Take it, take it , baby, baby Take it, take it , love me, love me Tonight, I'ma give it to harder Tonight, I'ma turn"
+    "Lyrics": "big enough? Take it, take it baby, baby Take it, take it love me, love me Tonight, I'ma give it to harder Tonight, I'ma turn"
   },
   {
     "Song": "Rude Boy",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "take it , baby, baby Take it, take it , love me, love me Tonight, I'ma give it to harder Tonight, I'ma turn body out"
+    "Lyrics": "Take it, take it baby, baby Take it, take it love me, love me Tonight, I'ma give it to harder Tonight, I'ma turn body out"
   },
   {
     "Song": "Rude Boy",
     "entity_text": "Tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "take it , baby, baby Take it, take it , love me, love me Tonight, I'ma give it to harder Tonight, I'ma turn body out"
+    "Lyrics": "Take it, take it baby, baby Take it, take it love me, love me Tonight, I'ma give it to harder Tonight, I'ma turn body out"
   },
   {
     "Song": "Teenage Dream",
@@ -10973,21 +11106,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "in love again Yeah, baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
+    "Lyrics": "falling in love again baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
@@ -11001,21 +11134,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "in love again Yeah, baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
+    "Lyrics": "falling in love again baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
@@ -11029,49 +11162,49 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "and you, dale 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love, falling"
+    "Lyrics": "and you, dale 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love, falling in"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "and you, dale 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love, falling"
+    "Lyrics": "and you, dale 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love, falling in"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "in love again Yeah, baby, tonight The DJ got us falling in love, falling in love, o So dance, dance like it's the last, last"
+    "Lyrics": "falling in love again baby, tonight The DJ got us falling in love, falling in love, o So dance, dance like it's the last, last"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "Yeah, baby, tonight The DJ got us falling in love, falling in love, o So dance, dance like it's the last, last night Of your"
+    "Lyrics": "again baby, tonight The DJ got us falling in love, falling in love, o So dance, dance like it's the last, last night Of your"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "get you right 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "get you right 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "get you right 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "get you right 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2010.0,
-    "Lyrics": "in love again Yeah, baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
+    "Lyrics": "falling in love again baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
   },
   {
     "Song": "DJ Got Us Fallin' in Love",
@@ -11218,21 +11351,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "in love again Yeah, baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
+    "Lyrics": "falling in love again baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
@@ -11246,21 +11379,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "Eyes, eye eyes 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "in love again Yeah, baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
+    "Lyrics": "falling in love again baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
@@ -11274,49 +11407,49 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "and you, dale 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love, falling"
+    "Lyrics": "and you, dale 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love, falling in"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "and you, dale 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love, falling"
+    "Lyrics": "and you, dale 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love, falling in"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "in love again Yeah, baby, tonight The DJ got us falling in love, falling in love, o So dance, dance like it's the last, last"
+    "Lyrics": "falling in love again baby, tonight The DJ got us falling in love, falling in love, o So dance, dance like it's the last, last"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "Yeah, baby, tonight The DJ got us falling in love, falling in love, o So dance, dance like it's the last, last night Of your"
+    "Lyrics": "again baby, tonight The DJ got us falling in love, falling in love, o So dance, dance like it's the last, last night Of your"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "get you right 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "get you right 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "get you right 'Cause baby, tonight The DJ got us falling in love again Yeah, baby, tonight The DJ got us falling in love again"
+    "Lyrics": "get you right 'Cause baby, tonight The DJ got us falling in love again baby, tonight The DJ got us falling in love again So"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "in love again Yeah, baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
+    "Lyrics": "falling in love again baby, tonight The DJ got us falling in love again So dance, dance like it's the last, last night Of your"
   },
   {
     "Song": "DJ Got Us Fallin' In Love",
@@ -11344,14 +11477,14 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "look to their right Can you feel that? Yeah, we're paying with love tonight It's not about the money, money, money We don't need your"
+    "Lyrics": "Everybody look to their right Can you feel that? we're paying with love tonight It's not about the money, money, money We don't need your"
   },
   {
     "Song": "Price Tag",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2011.0,
-    "Lyrics": "look to their right Can you feel that? Yeah, we're paying with love tonight It's not about the money, money, money We don't need your"
+    "Lyrics": "Everybody look to their right Can you feel that? we're paying with love tonight It's not about the money, money, money We don't need your"
   },
   {
     "Song": "Colder Weather",
@@ -11722,7 +11855,7 @@
     "entity_text": "midnight",
     "entity_label": "TIME",
     "Year": 2013.0,
-    "Lyrics": "feels like a perfect night For breakfast at midnight To fall in love with strangers, uh, We're happy, free, confused, and lonely at the same"
+    "Lyrics": "feels like a perfect night For breakfast at midnight To fall in love with strangers, We're happy, free, confused, and lonely at the same time"
   },
   {
     "Song": "The A Team",
@@ -11778,7 +11911,7 @@
     "entity_text": "Mondays",
     "entity_label": "DATE",
     "Year": 2014.0,
-    "Lyrics": "to be young We stick to our guns We love who we love and we wanna have fun Yeah, we cuss on them Mondays And"
+    "Lyrics": "to be young We stick to our guns We love who we love and we wanna have fun we cuss on them Mondays And pray"
   },
   {
     "Song": "Na Na",
@@ -11813,21 +11946,21 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2014.0,
-    "Lyrics": "feeling lucky tonight, tonight, girl When we leave this party you gon' love me tonight na, put your hands in the air if you re"
+    "Lyrics": "feeling lucky tonight, tonight, girl When we leave this party you gon' love me tonight put your hands in the air if you re fucking"
   },
   {
     "Song": "Na Na",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2014.0,
-    "Lyrics": "feeling lucky tonight, tonight, girl When we leave this party you gon' love me tonight na, put your hands in the air if you re"
+    "Lyrics": "feeling lucky tonight, tonight, girl When we leave this party you gon' love me tonight put your hands in the air if you re fucking"
   },
   {
     "Song": "Na Na",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2014.0,
-    "Lyrics": "feeling lucky tonight, tonight, girl When we leave this party you gon' love me tonight na, put your hands in the air if you re"
+    "Lyrics": "feeling lucky tonight, tonight, girl When we leave this party you gon' love me tonight put your hands in the air if you re fucking"
   },
   {
     "Song": "Love Runs Out",
@@ -11869,7 +12002,7 @@
     "entity_text": "the hours",
     "entity_label": "TIME",
     "Year": 2014.0,
-    "Lyrics": "way to block it, I go na, na, na, na, If our love is running out of time I won't count the hours, rather be"
+    "Lyrics": "it, I'll find a way to block it, I go If our love is running out of time I won't count the hours, rather be"
   },
   {
     "Song": "White Walls",
@@ -12072,7 +12205,7 @@
     "entity_text": "tomorrow",
     "entity_label": "DATE",
     "Year": 2015.0,
-    "Lyrics": "all gone 'Cause no , we're not promised tomorrow So I'm gonna love you, like I'm gonna lose you I'm gonna hold you , like"
+    "Lyrics": "it's all gone 'Cause no we're not promised tomorrow So I'm gonna love you, like I'm gonna lose you I'm gonna hold you like I'm"
   },
   {
     "Song": "Coco",
@@ -12275,7 +12408,7 @@
     "entity_text": "tomorrow",
     "entity_label": "DATE",
     "Year": 2016.0,
-    "Lyrics": "all gone 'Cause no , we're not promised tomorrow So I'm gonna love you, like I'm gonna lose you I'm gonna hold you , like"
+    "Lyrics": "it's all gone 'Cause no we're not promised tomorrow So I'm gonna love you, like I'm gonna lose you I'm gonna hold you like I'm"
   },
   {
     "Song": "Never Forget You",
@@ -12317,7 +12450,7 @@
     "entity_text": "the day",
     "entity_label": "DATE",
     "Year": 2016.0,
-    "Lyrics": "me love you Mmm, ah, mmm, ah, mmm, if you let me love you We sip that Henny for the day baby Come my, my"
+    "Lyrics": "touch you if you let me love you if you let me love you We sip that Henny for the day baby Come my, my"
   },
   {
     "Song": "Back To Sleep",
@@ -12331,7 +12464,7 @@
     "entity_text": "the morning",
     "entity_label": "TIME",
     "Year": 2016.0,
-    "Lyrics": "the morning so I can get a little bit more of your love Ain't sorry that I woke ya, I ain't sorry 'bout job, fuck"
+    "Lyrics": "the morning so I can get a little bit more of your love Ain't sorry that I woke I ain't sorry 'bout job, fuck you"
   },
   {
     "Song": "Back To Sleep",
@@ -12380,7 +12513,7 @@
     "entity_text": "the day",
     "entity_label": "DATE",
     "Year": 2017.0,
-    "Lyrics": "Love when you hit the ground, girl Oh, strip that down, girl Love when you hit the ground You know that since the day I"
+    "Lyrics": "girl Love when you hit the ground, girl strip that down, girl Love when you hit the ground You know that since the day I"
   },
   {
     "Song": "Rockabye",
@@ -12562,28 +12695,28 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "me? All that fear and all that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight Oh,"
+    "Lyrics": "me? All that fear and all that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight no,"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "me? All that fear and all that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight Oh,"
+    "Lyrics": "me? All that fear and all that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight no,"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight Oh, no, how did I manage to"
+    "Lyrics": "that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight no, how did I manage to lose"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight Oh, no, how did I manage to"
+    "Lyrics": "that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight no, how did I manage to lose"
   },
   {
     "Song": "How Do You Sleep?",
@@ -12597,49 +12730,56 @@
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "me? All that fear and all that pressure I'm hopin' that my love will keep you up tonight Yeah, yeah, Love will keep you up"
+    "Lyrics": "me? All that fear and all that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight love"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "I'm hopin' that my love will keep you up tonight Yeah, yeah, Love will keep you up tonight Oh, love will keep you up tonight"
+    "Lyrics": "me? All that fear and all that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight love"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "I'm hopin' that my love will keep you up tonight Yeah, yeah, Love will keep you up tonight Oh, love will keep you up tonight"
+    "Lyrics": "that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight love will keep you up tonight Baby,"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "I'm hopin' that my love will keep you up tonight Yeah, yeah, Love will keep you up tonight Oh, love will keep you up tonight"
+    "Lyrics": "that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight love will keep you up tonight Baby,"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "you up tonight Yeah, yeah, Love will keep you up tonight Oh, love will keep you up tonight Baby, how do you sleep when you"
+    "Lyrics": "that pressure I'm hopin' that my love will keep you up tonight Love will keep you up tonight love will keep you up tonight Baby,"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "you up tonight Yeah, yeah, Love will keep you up tonight Oh, love will keep you up tonight Baby, how do you sleep when you"
+    "Lyrics": "love will keep you up tonight Love will keep you up tonight love will keep you up tonight Baby, how do you sleep when you"
   },
   {
     "Song": "How Do You Sleep?",
     "entity_text": "tonight",
     "entity_label": "TIME",
     "Year": 2019.0,
-    "Lyrics": "you up tonight Yeah, yeah, Love will keep you up tonight Oh, love will keep you up tonight Baby, how do you sleep when you"
+    "Lyrics": "love will keep you up tonight Love will keep you up tonight love will keep you up tonight Baby, how do you sleep when you"
+  },
+  {
+    "Song": "How Do You Sleep?",
+    "entity_text": "tonight",
+    "entity_label": "TIME",
+    "Year": 2019.0,
+    "Lyrics": "love will keep you up tonight Love will keep you up tonight love will keep you up tonight Baby, how do you sleep when you"
   },
   {
     "Song": "How Do You Sleep?",
@@ -12730,7 +12870,7 @@
     "entity_text": "Tomorrow",
     "entity_label": "DATE",
     "Year": 2019.0,
-    "Lyrics": "what you are? Yeah, baby, you are Beautiful, beautiful, beautiful, beautiful angel Love your imperfections, every angle Tomorrow comes and goes before you know So"
+    "Lyrics": "know what you are? baby, you are Beautiful, beautiful, beautiful, beautiful angel Love your imperfections, every angle Tomorrow comes and goes before you know So"
   },
   {
     "Song": "Intentions",
@@ -12751,7 +12891,7 @@
     "entity_text": "ten thousand hours",
     "entity_label": "TIME",
     "Year": 2020.0,
-    "Lyrics": "it's ten thousand hours or the rest of my life I'm gonna love you I'm gonna love you Ooh, want the good and the bad"
+    "Lyrics": "it's ten thousand hours or the rest of my life I'm gonna love you I'm gonna love you want the good and the bad and"
   },
   {
     "Song": "10,000 Hours",
@@ -12803,6 +12943,20 @@
     "Lyrics": "the first man standing next to my best friend The day the love of his life said I do to him I was a couple"
   },
   {
+    "Song": "More Than My Hometown",
+    "entity_text": "morning",
+    "entity_label": "TIME",
+    "Year": 2020.0,
+    "Lyrics": "morning Lord Turnin' some poor lost souls 'round, and Hallelujah bound I love you more than the feeling when the bass hits the hook When"
+  },
+  {
+    "Song": "More Than My Hometown",
+    "entity_text": "morning",
+    "entity_label": "TIME",
+    "Year": 2020.0,
+    "Lyrics": "morning Lord Turnin' some poor lost souls around, and Hallelujah bound I love you more than the feeling when the bass hits the hook When"
+  },
+  {
     "Song": "Lovin' on You",
     "entity_text": "midnight",
     "entity_label": "TIME",
@@ -12838,39 +12992,46 @@
     "Lyrics": "your midnight moves I'm in love and lovin' on you I'm in love and lovin' on you"
   },
   {
+    "Song": "Levitating",
+    "entity_text": "tonight",
+    "entity_label": "TIME",
+    "Year": 2021.0,
+    "Lyrics": "with me tonight Baby, let me take you for a ride My love is like a rocket, watch it blast off And I'm feeling so"
+  },
+  {
     "Song": "Drivers License",
     "entity_text": "today",
     "entity_label": "DATE",
     "Year": 2021.0,
-    "Lyrics": "Yeah, today, I drove through the suburbs 'Cause how could I ever love someone else? And I know we weren't perfect, but I've never felt"
+    "Lyrics": "about today, I drove through the suburbs 'Cause how could I ever love someone else? And I know we weren't perfect, but I've never felt"
   },
   {
     "Song": "Positions",
     "entity_text": "Sunday",
     "entity_label": "DATE",
     "Year": 2021.0,
-    "Lyrics": "I'm tryna meet your mama on a Sunday Then make a lotta love on a Monday Never need no , no one else, babe Cause"
+    "Lyrics": "I'm tryna meet your mama on a Sunday Then make a lotta love on a Monday Never need no no one else, babe Cause I'll"
   },
   {
     "Song": "Positions",
     "entity_text": "Monday",
     "entity_label": "DATE",
     "Year": 2021.0,
-    "Lyrics": "I'm tryna meet your mama on a Sunday Then make a lotta love on a Monday Never need no , no one else, babe Cause"
+    "Lyrics": "I'm tryna meet your mama on a Sunday Then make a lotta love on a Monday Never need no no one else, babe Cause I'll"
   },
   {
     "Song": "Positions",
     "entity_text": "Sunday",
     "entity_label": "DATE",
     "Year": 2021.0,
-    "Lyrics": "I'm tryna meet your mama on a Sunday Then make a lotta love on a Monday Never need no , no onе else, babe 'Causе"
+    "Lyrics": "I'm tryna meet your mama on a Sunday Then make a lotta love on a Monday Never need no no onе else, babe 'Causе I'll"
   },
   {
     "Song": "Positions",
     "entity_text": "Monday",
     "entity_label": "DATE",
     "Year": 2021.0,
-    "Lyrics": "I'm tryna meet your mama on a Sunday Then make a lotta love on a Monday Never need no , no onе else, babe 'Causе"
+    "Lyrics": "I'm tryna meet your mama on a Sunday Then make a lotta love on a Monday Never need no no onе else, babe 'Causе I'll"
   },
   {
     "Song": "Wockesha",
@@ -12885,6 +13046,20 @@
     "entity_label": "DATE",
     "Year": 2021.0,
     "Lyrics": "it, I'm crossin' a line today The hate be so real, the love be fake Be bumpin' they gums and bumpin' my tape Don't go"
+  },
+  {
+    "Song": "Shivers",
+    "entity_text": "all day",
+    "entity_label": "DATE",
+    "Year": 2022.0,
+    "Lyrics": "up all day and all night you got me singin' like I love it when you do it like that And when you're close up,"
+  },
+  {
+    "Song": "Shivers",
+    "entity_text": "all day",
+    "entity_label": "DATE",
+    "Year": 2022.0,
+    "Lyrics": "up all day and all night you got me singin' like I love it when you do it like that And when you're close up,"
   },
   {
     "Song": "Thats What I Want",
@@ -12950,53 +13125,60 @@
     "Lyrics": "Keep doing what you're doing to me all night long Writin' our love song Girl, I want it, gotta have it Let the passion take"
   },
   {
+    "Song": "Levitating",
+    "entity_text": "tonight",
+    "entity_label": "TIME",
+    "Year": 2022.0,
+    "Lyrics": "with me tonight Baby, let me take you for a ride My love is like a rocket, watch it blast off And I'm feeling so"
+  },
+  {
     "Song": "AA",
     "entity_text": "the end of the day",
     "entity_label": "DATE",
     "Year": 2022.0,
-    "Lyrics": "I get, the more I am Tryna get paid and a little love made, y'all Hey, y'all, at the end of the day, y'all I'm"
+    "Lyrics": "I get, the more I am Tryna get paid and a little love made, y'all y'all, at the end of the day, y'all I'm just"
   },
   {
     "Song": "Like I Love Country Music",
     "entity_text": "June",
     "entity_label": "DATE",
     "Year": 2022.0,
-    "Lyrics": "kinda like Johnny and June did, yeah, let's do this Baby, I love you like I love country music 'Causе I could never live without"
+    "Lyrics": "line kinda like Johnny and June did, let's do this Baby, I love you like I love country music 'Causе I could never live without"
   },
   {
     "Song": "Like I Love Country Music",
     "entity_text": "June",
     "entity_label": "DATE",
     "Year": 2022.0,
-    "Lyrics": "June did, yeah, let's do this Baby, I love you like I love country music 'Causе I could never live without or my favoritе songs"
+    "Lyrics": "and June did, let's do this Baby, I love you like I love country music 'Causе I could never live without or my favoritе songs"
   },
   {
     "Song": "Like I Love Country Music",
     "entity_text": "June",
     "entity_label": "DATE",
     "Year": 2022.0,
-    "Lyrics": "kinda like Johnny and June did, yeah, let's do this Baby, I love you like I love country music Hit 'em with it, Play that"
+    "Lyrics": "line kinda like Johnny and June did, let's do this Baby, I love you like I love country music Hit 'em with it, Play that"
   },
   {
     "Song": "Like I Love Country Music",
     "entity_text": "June",
     "entity_label": "DATE",
     "Year": 2022.0,
-    "Lyrics": "June did, yeah, let's do this Baby, I love you like I love country music Hit 'em with it, Play that fiddle If I was"
+    "Lyrics": "and June did, let's do this Baby, I love you like I love country music Hit 'em with it, Play that fiddle If I was"
   },
   {
     "Song": "Like I Love Country Music",
     "entity_text": "June",
     "entity_label": "DATE",
     "Year": 2022.0,
-    "Lyrics": "kinda like Johnny and June did, yeah, let's do this Baby, I love you like I love country music Oh, baby, I love you like"
+    "Lyrics": "line kinda like Johnny and June did, let's do this Baby, I love you like I love country music baby, I love you like I"
   },
   {
     "Song": "Like I Love Country Music",
     "entity_text": "June",
     "entity_label": "DATE",
     "Year": 2022.0,
-    "Lyrics": "June did, yeah, let's do this Baby, I love you like I love country music Oh, baby, I love you like I love country music"
+    "Lyrics": "and June did, let's do this Baby, I love you like I love country music baby, I love you like I love country music that's"
   },
   {
     "Song": "Flower Shops",
@@ -13025,6 +13207,13 @@
     "entity_label": "DATE",
     "Year": 2023.0,
     "Lyrics": "layup with her for a couple days, then its BRB You rappers love askin' if I fucked, when you know we did When you know"
+  },
+  {
+    "Song": "Love You Anyway",
+    "entity_text": "the day",
+    "entity_label": "DATE",
+    "Year": 2023.0,
+    "Lyrics": "the day we met you'd be the reason this heart breaks I'd love you anyway"
   },
   {
     "Song": "Golden Hour",

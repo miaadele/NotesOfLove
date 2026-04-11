@@ -1,5 +1,6 @@
 import json
 import re
+import string
 
 #punctuation marks that will be kept
 KEEP_PUNCT = {"'", ",", ".", "?", "!"}
@@ -27,12 +28,11 @@ def normalize_lyrics(text):
     )
 
     #tokenize
-    words = text.split()
-
-    #remove filler words
-    words = [w for w in words if w not in FILLER_WORDS]
-
-    #rejoin 
+    words = []
+    for w in text.split():
+        clean_w = w.strip(string.punctuation) #used only for checking, not finaly output
+        if clean_w and clean_w not in FILLER_WORDS:
+            words.append(w)
     return " ".join(words)
 
 #load filtered data

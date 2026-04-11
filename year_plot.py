@@ -17,9 +17,20 @@ for entry in data:
 years = sorted(year_counts.keys())
 counts = [year_counts[y] for y in years]
 
+#make scatterplot of love occurrences in corpus
 import matplotlib.pyplot as plt
+import numpy as np
+
+years = np.array(years)
+counts = np.array(counts)
+from statsmodels.nonparametric.smoothers_lowess import lowess
+smoothed = lowess(counts, years, frac = 0.2) #for each point, LOWESS looks at 20% of nearby data points to fit a small regression
 plt.figure(figsize= (10, 6))
-plt.plot(years, counts, marker = 'o')
+plt.scatter(years, counts, color = "#B81456")
+plt.plot(smoothed[:, 0], smoothed[:, 1], linestyle='--', color = "#B81456")
+
 
 plt.title("Occurrences of the Word 'Love' in US Top 100 Song Lyrics From 1959 Through 2023")
-plt.savefig("love_occurerences_dist.png")
+plt.xlabel("Year of Song Ranking")
+plt.ylabel("Occrrences of the Word 'Love'")
+plt.savefig("love_occurrences_lowess_smoothing.png")
