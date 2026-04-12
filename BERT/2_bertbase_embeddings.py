@@ -136,7 +136,7 @@ def main():
 
         if embedding is not None:
             song_embeddings.append(embedding.tolist())
-            song_names.append(doc["Lyrics"])
+            song_names.append(doc["Song"])
 
         if i % 50 == 0 or i == len(songs):
             print(f"Processed {i}/{len(songs)} documents...")
