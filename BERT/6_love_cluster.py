@@ -47,7 +47,7 @@ else:
     print(f"Too few occurrences for silhouette analysis. Using k={best_k}.")
 
 # Cluster
-K_LOVE = best_k
+K_LOVE = 4
 print(f"the best k score is {K_LOVE}")
 km_love = KMeans(n_clusters=K_LOVE, random_state=42, n_init=10)
 love_cluster_labels = km_love.fit_predict(love_embeddings)
@@ -85,7 +85,7 @@ plt.show()
 
 print("\nSaved plots to love_cluster_selection.png and love_embeddings_pca.png")
 
-# --- Save cluster labels for later steps ---
+# # --- Save cluster labels for later steps ---
 output = {
     "love_cluster_labels": love_cluster_labels.tolist(),
     "K_LOVE": K_LOVE,
@@ -94,3 +94,24 @@ with open(Path("data") / "love_cluster_labels.json", "w") as f:
     json.dump(output, f, indent=2)
 
 print("Saved cluster labels to data/love_cluster_labels.json")
+
+#print samples
+#take 20 samples that are evenly distributed across each cluster
+#to ensure variety from time periods
+for c in range(K_LOVE):
+    indices = [i for i, label in enumerate(love_cluster_labels) if label == c]
+
+    print(f"CLUSTER {c} {len(indices)} occurrences\n")
+
+    #pick 20 evenly spaced positions within the cluster
+    sample_positions = np.linspace(0, len(indices) -1, 20, dtype=int)
+    sampled_indices = [indices[i] for i in sample_positions]
+
+    for idx in sampled_indices:
+        meta = love_metadata[idx]
+        sent = meta["Context"]
+        # Show "love" in context
+
+        print(f"  [{meta['Song Title']}]")
+        print(f"  {sent}")
+        print()
