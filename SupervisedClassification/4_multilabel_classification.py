@@ -229,3 +229,48 @@ import joblib
 joblib.dump(clf, MODEL_PATH / "multilabel_model.joblib")
 joblib.dump(vectorizer, MODEL_PATH / "tfidf_vectorizer.joblib")
 print("Saved vectorizer and classifier")
+
+#confusion matrix
+from sklearn.metrics import multilabel_confusion_matrix
+# label_names = ["romance", "longing", "time", "hope"]
+# mcm = multilabel_confusion_matrix(y_test, prediction)
+# for i, label in enumerate(label_names):
+#     tn, fp, fn, tp = mcm[i].ravel()
+#     print(f"{label}")
+#     print(f"TP={tp}, FP={fp}, FN={fn}, TN={tn}\n")
+
+#Cooccurrence matrix
+#Ground truth co-occurence (rules)
+import numpy as np
+y_true = y.values
+co_true = np.dot(y_true.T, y_true)
+
+#predicted cooccurrence (model behavior)
+y_pred_all = df_predictions[[
+    "pred_romance", "pred_longing", "pred_time", "pred_hope"
+]].values
+
+co_pred = np.dot(y_pred_all.T, y_pred_all)
+
+#rule-based v model-based cooccurrence
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+labels = ["romance", "longing", "time", "hope"]
+
+plt.figure(figsize=(10,4))
+
+plt.subplot(1,2,1)
+sns.heatmap(co_true, annot=True, fmt="d",
+            xticklabels=labels, yticklabels=labels)
+plt.title("Rule-based Co-occurrence")
+
+plt.subplot(1,2,2)
+sns.heatmap(co_pred, annot=True, fmt="d",
+            xticklabels=labels, yticklabels=labels)
+plt.title("Model Co-occurrence")
+
+plt.show()
+
+#error matrix / label confusion
+error_matrix = np.dot(y_pred_all.T, (y_true - y_pred_all > 0))
